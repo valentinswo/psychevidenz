@@ -6,7 +6,11 @@
 <meta name="description" content="Fachinformationen zu Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie: wöchentliche Forschungsneuigkeiten und Wissensbeiträge mit Quellen.">
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#2f6f73">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6f73'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='17' fill='white' text-anchor='middle'%3EPE%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="icon" href="icon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="PsychEvidenz">
 <title>PsychEvidenz</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -43,6 +47,7 @@ button{font:inherit;color:inherit}
 header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
 .bar{display:flex;align-items:center;gap:16px;padding-block:12px;flex-wrap:wrap}
 .brand{display:flex;align-items:baseline;gap:10px;margin-right:auto;min-width:0}
+.brand .logo{width:28px;height:28px;border-radius:7px;align-self:center;flex:none}
 .brand b{font-family:var(--font-display);font-weight:600;font-size:1.45rem;letter-spacing:.005em}
 .brand span{font-size:.78rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
 .iconbtn{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:36px;padding:0 12px;border:1px solid var(--line);background:var(--surface);border-radius:999px;cursor:pointer;font-size:.85rem;color:var(--muted)}
@@ -129,7 +134,7 @@ footer.disc p{margin:0 0 6px;max-width:80ch}
 <header class="top">
   <div class="wrap">
     <div class="bar">
-      <div class="brand"><b>PsychEvidenz</b><span>Psychiatrie · Psychotherapie · KJP</span></div>
+      <div class="brand"><img src="icon.svg" alt="" width="28" height="28" class="logo"><b>PsychEvidenz</b><span>Psychiatrie · Psychotherapie · KJP</span></div>
       <button class="iconbtn" id="themeBtn" type="button" aria-label="Hell- oder Dunkelmodus wechseln">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
         <span id="themeLabel">Dunkel</span>

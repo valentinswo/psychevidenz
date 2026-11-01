@@ -14,6 +14,8 @@ Jeder Beitrag nennt seine Quellen (Zitation, DOI, Link).
 index.html          die komplette App (HTML, CSS, JS in einer Datei)
 posts/index.json    Liste aller Beitrags-IDs, neueste zuerst: {"posts": ["id-1", "id-2", …]}
 posts/<id>.json     ein Beitrag pro Datei
+icon.svg, *.png      App-Symbol (Psi-Zeichen) für Browser und Home-Bildschirm
+manifest.webmanifest Angaben für „Zum Home-Bildschirm hinzufügen“
 .nojekyll           verhindert Jekyll-Verarbeitung durch GitHub Pages
 ```
 
