@@ -1,0 +1,73 @@
+{
+  "id": "wissen-lithium",
+  "section": "wissen",
+  "issue": "2026-11-01",
+  "order": 10,
+  "areas": [
+    "Pharmakotherapie",
+    "Psychiatrie"
+  ],
+  "tags": [
+    "Lithium",
+    "bipolare Störung",
+    "Phasenprophylaxe",
+    "TDM",
+    "Serumspiegel",
+    "Monitoring",
+    "Intoxikation"
+  ],
+  "readMinutes": 11,
+  "title": "Lithium in der Phasenprophylaxe: Zielspiegel, Monitoring und sichere Anwendung",
+  "subtitle": "Ein praxisorientierter Überblick zu Indikation, Serumspiegeln, Kontrolluntersuchungen, Wechselwirkungen und Intoxikationszeichen.",
+  "summary": "Lithium bleibt Goldstandard der Phasenprophylaxe bipolarer Störungen und wirkt antisuizidal. Zielspiegel in der Erhaltungstherapie meist 0,6–0,8 mmol/l. Überblick über Ausgangsdiagnostik, Kontrollintervalle, Interaktionen und Intoxikation.",
+  "facts": [
+    {
+      "label": "Substanzklasse",
+      "value": "Stimmungsstabilisierer (Alkalimetall)"
+    },
+    {
+      "label": "Zielspiegel Erhaltung",
+      "value": "0,6–0,8 mmol/l (individuell 0,4–1,0)"
+    },
+    {
+      "label": "Blutentnahme",
+      "value": "12 h nach letzter Einnahme"
+    },
+    {
+      "label": "Therapeutische Breite",
+      "value": "eng; Toxizität meist > 1,2–1,5 mmol/l"
+    },
+    {
+      "label": "Ausscheidung",
+      "value": "fast vollständig renal"
+    },
+    {
+      "label": "Leitlinienbezug",
+      "value": "S3-LL Bipolare Störungen, AGNP-TDM-Konsensus"
+    }
+  ],
+  "keyPoints": [
+    "Lithium ist das Mittel mit der robustesten Evidenz zur **Rückfallprophylaxe bipolarer Störungen** und hat als einziger Stimmungsstabilisierer einen gut belegten **antisuizidalen Effekt**.",
+    "Für die Erhaltungstherapie empfiehlt die internationale ISBD/IGSLI-Taskforce einen Standard-Zielbereich von **0,60–0,80 mmol/l**; bei guter Response mit Nebenwirkungen 0,40–0,60, bei unzureichender Wirkung 0,80–1,00 mmol/l.",
+    "Der Spiegel wird **12 Stunden nach der letzten Einnahme** bestimmt (Talspiegel).",
+    "NSAR, ACE-Hemmer, AT1-Antagonisten, Thiazide, Dehydratation und natriumarme Kost können den Spiegel gefährlich erhöhen."
+  ],
+  "body": "## Indikationen und Stellenwert\nLithium ist in der Phasenprophylaxe bipolar-affektiver Störungen das Mittel der ersten Wahl. Weitere Einsatzgebiete sind die Akutbehandlung der Manie, die Augmentation bei unzureichendem Ansprechen auf Antidepressiva in der unipolaren Depression sowie die Rezidivprophylaxe rezidivierender unipolarer Depressionen. Besonders bedeutsam ist die konsistent belegte Reduktion von Suiziden und Suizidversuchen.\n\nPrädiktoren für ein gutes Ansprechen sind unter anderem ein klassischer episodischer Verlauf mit vollständigen Remissionen, die Abfolge Manie–Depression–freies Intervall und eine positive Familienanamnese für Lithium-Response.\n\n## Ausgangsdiagnostik vor Behandlungsbeginn\n- Nierenfunktion: Kreatinin, eGFR, ggf. Urinstatus\n- Schilddrüse: TSH (ggf. fT3/fT4)\n- Serumkalzium (Hyperparathyreoidismus)\n- Elektrolyte, Blutbild\n- EKG, insbesondere bei kardialer Vorerkrankung oder höherem Alter\n- Körpergewicht und Halsumfang (Struma)\n- bei Frauen im gebärfähigen Alter: Schwangerschaftstest und Beratung zur Kontrazeption\n- Erfassung der Begleitmedikation mit Blick auf Interaktionen\n\n## Eindosierung und Zielspiegel\nDie Eindosierung erfolgt schrittweise unter Spiegelkontrolle, typischerweise wöchentlich, bis der Zielbereich stabil erreicht ist. Der Steady State stellt sich nach etwa fünf bis sieben Tagen ein.\n\nDie ISBD/IGSLI-Taskforce (Nolen et al. 2019) empfiehlt für die Erhaltungstherapie bei Erwachsenen:\n- **Standard:** 0,60–0,80 mmol/l\n- **bei guter Wirksamkeit, aber belastenden Nebenwirkungen:** 0,40–0,60 mmol/l\n- **bei unzureichender Wirksamkeit und guter Verträglichkeit:** 0,80–1,00 mmol/l\n\nIn der Akutbehandlung der Manie werden höhere Spiegel angestrebt. Bei älteren Menschen sind wegen verminderter renaler Clearance oft niedrigere Dosen und Spiegel ausreichend und sicherer. Der AGNP-Konsensus zum therapeutischen Drug Monitoring nennt für Lithium einen therapeutischen Referenzbereich von 0,5–1,2 mmol/l und eine Warnschwelle bei 1,2 mmol/l.\n\nWichtig ist die standardisierte Abnahme: **12 Stunden nach der letzten Einnahme**, bei Einmalgabe am Abend also am folgenden Morgen.\n\n## Verlaufskontrollen\nGängige Empfehlungen aus Leitlinien und Konsensuspapieren sehen vor:\n- Lithiumspiegel: in der Einstellungsphase wöchentlich, im ersten Jahr etwa alle drei Monate, danach mindestens halbjährlich; zusätzlich bei Dosisänderung, neuer Begleitmedikation, interkurrenten Erkrankungen, Fieber, Diarrhö, Erbrechen oder Verdacht auf Intoxikation\n- Kreatinin/eGFR, Elektrolyte: anfangs alle drei Monate, später alle sechs bis zwölf Monate\n- TSH und Kalzium: halbjährlich bis jährlich\n- Körpergewicht: regelmäßig\n- EKG: je nach Alter und kardialem Risiko\n\n## Unerwünschte Wirkungen\n### Häufig und meist früh\nFeinschlägiger Tremor, Polyurie und Polydipsie, gastrointestinale Beschwerden, Gewichtszunahme, kognitive Verlangsamung.\n\n### Langzeitrisiken\n- **Niere:** nephrogener Diabetes insipidus, langfristig mögliche Abnahme der GFR\n- **Schilddrüse:** Hypothyreose, Struma\n- **Nebenschilddrüse:** Hyperparathyreoidismus mit Hyperkalzämie\n- **Haut:** Akne, Verschlechterung einer Psoriasis\n- **Herz:** Reizleitungsstörungen, Sinusknotendysfunktion (selten)\n\n## Wechselwirkungen\nDa Lithium renal wie Natrium behandelt wird, erhöhen alle Faktoren, die die Natrium- bzw. Lithiumrückresorption steigern, den Spiegel:\n- NSAR (außer niedrig dosierter ASS), Coxibe\n- ACE-Hemmer und AT1-Rezeptorantagonisten\n- Thiaziddiuretika (deutlicher Spiegelanstieg); Schleifendiuretika in geringerem Maß\n- Dehydratation, Fieber, starkes Schwitzen, Erbrechen, Diarrhö\n- natriumarme Diät\n\nVorsicht ist zudem geboten bei Kombinationen mit serotonergen Substanzen und mit Antipsychotika (seltene neurotoxische Reaktionen).\n\n## Intoxikation\nWarnzeichen sind grobschlägiger Tremor, Ataxie, Dysarthrie, Übelkeit, Erbrechen, Durchfall, Müdigkeit, Verwirrtheit; bei schweren Verläufen Rigor, Myoklonien, Krampfanfälle, Bewusstseinsstörung und Herzrhythmusstörungen. Toxische Symptome treten häufig ab Spiegeln über 1,2–1,5 mmol/l auf, bei chronischer Intoxikation und im höheren Alter auch darunter. Behandlungsprinzipien: Absetzen, Spiegel- und Nierenfunktionskontrolle, Flüssigkeits- und Elektrolytausgleich; bei schweren Verläufen Hämodialyse.\n\n## Schwangerschaft\nDas teratogene Risiko, insbesondere für kardiale Fehlbildungen, ist geringer als früher angenommen, aber vorhanden. Eine Behandlung in der Schwangerschaft erfordert eine individuelle Abwägung gegen das hohe postpartale Rückfallrisiko, engmaschige Spiegelkontrollen (veränderte Clearance im Verlauf und peripartal) und eine interdisziplinäre Betreuung.\n\n## Patientenaufklärung\nPatientinnen und Patienten sollten Warnzeichen einer Intoxikation kennen, auf ausreichende Flüssigkeitszufuhr achten, bei Fieber, Erbrechen oder Durchfall ärztlichen Rat einholen und vor Einnahme neuer Medikamente – insbesondere Schmerzmittel – auf die Lithiumtherapie hinweisen. Ein Lithiumpass hilft bei der Dokumentation.",
+  "practice": "Die meisten Lithium-Intoxikationen entstehen nicht durch Überdosierung, sondern durch Spiegelanstiege bei unveränderter Dosis – etwa nach Verordnung eines NSAR, Diuretikums oder ACE-Hemmers oder bei Dehydratation. Eine aktuelle Medikationsliste, klar kommunizierte Warnzeichen und Spiegelkontrollen bei jeder relevanten Änderung sind die wirksamsten Schutzmaßnahmen.",
+  "sources": [
+    {
+      "citation": "Nolen WA, Licht RW, Young AH, et al. What is the optimal serum level for lithium in the maintenance treatment of bipolar disorder? A systematic review and recommendations from the ISBD/IGSLI Task Force on treatment with lithium. Bipolar Disord. 2019;21(5):394–409.",
+      "doi": "10.1111/bdi.12805",
+      "url": "https://doi.org/10.1111/bdi.12805"
+    },
+    {
+      "citation": "Hiemke C, Bergemann N, Clement HW, et al. Consensus Guidelines for Therapeutic Drug Monitoring in Neuropsychopharmacology: Update 2017. Pharmacopsychiatry. 2018;51(1-02):9–62.",
+      "doi": "10.1055/s-0043-116492",
+      "url": "https://doi.org/10.1055/s-0043-116492"
+    },
+    {
+      "citation": "DGBS & DGPPN. S3-Leitlinie zur Diagnostik und Therapie Bipolarer Störungen. AWMF-Register-Nr. 038-019 (aktuelle Fassung im AWMF-Register prüfen).",
+      "url": "https://register.awmf.org/de/leitlinien/detail/038-019"
+    }
+  ]
+}

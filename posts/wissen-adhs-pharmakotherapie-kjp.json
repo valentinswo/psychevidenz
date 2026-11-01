@@ -1,0 +1,74 @@
+{
+  "id": "wissen-adhs-pharmakotherapie-kjp",
+  "section": "wissen",
+  "issue": "2026-11-01",
+  "order": 11,
+  "areas": [
+    "KJP",
+    "Pharmakotherapie"
+  ],
+  "tags": [
+    "ADHS",
+    "Methylphenidat",
+    "Lisdexamfetamin",
+    "Atomoxetin",
+    "Guanfacin",
+    "Stimulanzien",
+    "Kinder",
+    "Jugendliche",
+    "Monitoring"
+  ],
+  "readMinutes": 10,
+  "title": "Pharmakotherapie der ADHS im Kindes- und Jugendalter: Wirkstoffe, Stufenvorgehen und Monitoring",
+  "subtitle": "Ein Überblick über die medikamentösen Optionen, ihre Einordnung in das multimodale Behandlungskonzept und die erforderlichen Verlaufskontrollen.",
+  "summary": "Methylphenidat ist bei Kindern ab 6 Jahren Mittel der ersten Wahl, gefolgt von Lisdexamfetamin; Atomoxetin und Guanfacin sind Nicht-Stimulanzien-Alternativen. Überblick über Evidenz, Leitlinienvorgaben und Monitoring.",
+  "facts": [
+    {
+      "label": "Indikation",
+      "value": "ADHS ab 6 Jahren, im multimodalen Konzept"
+    },
+    {
+      "label": "1. Wahl Kinder",
+      "value": "Methylphenidat"
+    },
+    {
+      "label": "Alternativen",
+      "value": "Lisdexamfetamin, Atomoxetin, Guanfacin ret."
+    },
+    {
+      "label": "Effektstärke Stimulanzien",
+      "value": "hoch (SMD ~0,8–1,0 vs. Placebo)"
+    },
+    {
+      "label": "Leitlinie",
+      "value": "S3-LL ADHS, AWMF 028-045"
+    },
+    {
+      "label": "Kontrollen",
+      "value": "Größe, Gewicht, RR, Puls, Schlaf, Appetit"
+    }
+  ],
+  "keyPoints": [
+    "Die Pharmakotherapie ist Teil eines **multimodalen Behandlungskonzepts** mit Psychoedukation, Elterntraining und schulbezogenen Interventionen; bei leichter Ausprägung stehen psychosoziale Maßnahmen im Vordergrund.",
+    "Für Kinder und Jugendliche zeigt die große Netzwerk-Metaanalyse von Cortese et al. (2018) **Methylphenidat** als bevorzugte Erstlinienoption unter Abwägung von Wirksamkeit und Verträglichkeit.",
+    "Vor Behandlungsbeginn sind eine **kardiale Anamnese** (inkl. Familienanamnese plötzlicher Herztod) sowie Basiswerte für Größe, Gewicht, Blutdruck und Puls erforderlich.",
+    "Im Verlauf sollten **Wachstum, Gewicht, Blutdruck, Puls, Appetit, Schlaf, Tics und Stimmung** regelmäßig dokumentiert und die Indikation mindestens jährlich überprüft werden."
+  ],
+  "body": "## Einordnung in das Gesamtkonzept\nDie Behandlung der ADHS im Kindes- und Jugendalter erfolgt multimodal. Grundlage sind Psychoedukation von Kind, Eltern und ggf. Schule, Elterntraining, verhaltenstherapeutische Interventionen und die Zusammenarbeit mit Kita oder Schule. Die deutsche S3-Leitlinie (AWMF-Reg.-Nr. 028-045) orientiert die Wahl der Interventionen an Schweregrad, Alter und Funktionsbeeinträchtigung:\n- **leichte ADHS:** vorrangig psychosoziale Interventionen; Pharmakotherapie nur in begründeten Fällen\n- **mittelgradige ADHS:** psychosoziale oder pharmakologische Behandlung bzw. Kombination, abhängig von Präferenzen und Rahmenbedingungen\n- **schwere ADHS:** primär Pharmakotherapie, ergänzt um psychosoziale Maßnahmen\n- **Vorschulalter (unter 6 Jahren):** vorrangig Elterntraining; Medikation nur in Ausnahmefällen und durch Spezialisten\n\n## Wirkstoffe im Überblick\n### Methylphenidat (MPH)\nHemmt die Wiederaufnahme von Dopamin und Noradrenalin. Verfügbar als unretardierte Form (Wirkdauer etwa 3–4 Stunden) und in verschiedenen Retardformulierungen mit unterschiedlichem Freisetzungsprofil (etwa 6–12 Stunden). Die Wahl der Formulierung richtet sich nach dem Tagesablauf, etwa der Notwendigkeit einer Wirkung bis zu den Hausaufgaben. Für Kinder ab 6 Jahren gilt MPH als Mittel der ersten Wahl.\n\n### Lisdexamfetamin (LDX)\nProdrug von Dexamfetamin mit langer, gleichmäßiger Wirkdauer und geringerem Missbrauchspotenzial als unretardiertes Amphetamin. In Deutschland bei Kindern ab 6 Jahren zugelassen, wenn das Ansprechen auf MPH klinisch unzureichend ist. In Metaanalysen zeigen Amphetamine bei Kindern eine vergleichbare oder etwas höhere Wirksamkeit, aber tendenziell eine geringere Verträglichkeit als MPH.\n\n### Atomoxetin\nSelektiver Noradrenalin-Wiederaufnahmehemmer, kein Betäubungsmittel. Volle Wirkung oft erst nach mehreren Wochen. Option bei unzureichender Wirkung oder Unverträglichkeit von Stimulanzien, bei komorbider Angststörung oder Tic-Störung sowie bei Missbrauchsrisiko im Umfeld. Hinweise der Fachinformation zu Suizidgedanken und zu seltenen Leberschäden sind zu beachten.\n\n### Guanfacin retard\nSelektiver α2A-Agonist, zugelassen bei Kindern und Jugendlichen von 6–17 Jahren, wenn Stimulanzien nicht infrage kommen, nicht vertragen werden oder unwirksam sind. Typische Nebenwirkungen sind Sedierung, Hypotonie und Bradykardie; ein abruptes Absetzen kann einen Rebound-Blutdruckanstieg auslösen, weshalb ausgeschlichen werden muss.\n\n## Evidenzlage\nDie Netzwerk-Metaanalyse von Cortese et al. (Lancet Psychiatry 2018) mit 133 doppelblinden RCTs ergab für Kinder und Jugendliche: Alle untersuchten Substanzen waren in der Kurzzeitbehandlung wirksamer als Placebo. Unter Berücksichtigung von Wirksamkeit und Verträglichkeit empfahlen die Autoren **Methylphenidat bei Kindern und Jugendlichen** und **Amphetamine bei Erwachsenen** als bevorzugte Erstlinienmedikation. Langzeitdaten aus kontrollierten Studien sind begrenzt; Registerstudien deuten auf günstige Effekte auf Unfälle, Verletzungen, Delinquenz und Substanzkonsum hin.\n\n## Vor Behandlungsbeginn\n- vollständige Diagnostik einschließlich Komorbiditäten (Tic-Störungen, Angst, Depression, Störung des Sozialverhaltens, Autismus-Spektrum, Lernstörungen)\n- **kardiale Anamnese:** Synkopen, Belastungsdyspnoe, Palpitationen, angeborene Herzfehler; Familienanamnese für plötzlichen Herztod oder Herzrhythmusstörungen; bei Auffälligkeiten EKG und kinderkardiologische Abklärung\n- Ausgangswerte für Körpergröße, Gewicht (mit Perzentilen), Blutdruck und Puls\n- Erfassung von Schlaf, Appetit, Tics und Substanzkonsum (bei Jugendlichen)\n\n## Titration\nBegonnen wird mit niedriger Dosis, die in wöchentlichen Schritten unter Rückmeldung von Eltern und Schule bis zur optimalen Wirkung bei akzeptabler Verträglichkeit gesteigert wird. Standardisierte Fragebögen (z. B. Eltern- und Lehrerurteil) erleichtern die Beurteilung. Die Höchstdosen der jeweiligen Fachinformation sind zu beachten.\n\n## Monitoring im Verlauf\n- **Körpergröße und Gewicht:** mindestens halbjährlich, Eintrag in Perzentilenkurven; Stimulanzien können das Längenwachstum gering verzögern\n- **Blutdruck und Puls:** bei jeder Dosisänderung und mindestens halbjährlich\n- **Appetit und Schlaf:** häufigste Nebenwirkungen; Gegenmaßnahmen sind z. B. ein reichhaltiges Frühstück vor der Einnahme, Spätmahlzeiten und eine Anpassung des Einnahmezeitpunkts\n- **Tics, Stimmung, Reizbarkeit, psychotische Symptome**\n- **Missbrauch und Weitergabe** bei Jugendlichen\n- mindestens jährliche Überprüfung der Indikation; Auslassversuche (z. B. in den Ferien) können helfen, den fortbestehenden Bedarf zu beurteilen\n\n## Besondere Situationen\n- **Tic-Störungen:** Stimulanzien verschlechtern Tics bei den meisten Betroffenen nicht wesentlich; bei Verschlechterung sind Guanfacin oder Atomoxetin Alternativen.\n- **Autismus-Spektrum-Störung:** Stimulanzien wirken, oft aber schwächer und mit mehr Nebenwirkungen; vorsichtige Titration.\n- **Epilepsie:** gut eingestellte Epilepsie ist keine Kontraindikation, erfordert aber Abstimmung mit der Neuropädiatrie.\n- **Übergang ins Erwachsenenalter:** frühzeitige Transitionsplanung, um Versorgungsabbrüche zu vermeiden.",
+  "practice": "Für eine gelungene Pharmakotherapie ist weniger die Wahl des einzelnen Präparats entscheidend als eine sorgfältige Titration mit strukturierter Rückmeldung aus Familie und Schule, die konsequente Dokumentation von Wachstum und Kreislaufparametern und die regelmäßige Überprüfung, ob die Behandlung weiterhin nötig ist. Zulassungsalter, Höchstdosen und BtM-Vorgaben sind der jeweils aktuellen Fachinformation zu entnehmen.",
+  "sources": [
+    {
+      "citation": "DGKJP, DGPPN, DGSPJ. S3-Leitlinie Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) im Kindes-, Jugend- und Erwachsenenalter. AWMF-Register-Nr. 028-045 (aktuelle Fassung im AWMF-Register prüfen).",
+      "url": "https://register.awmf.org/de/leitlinien/detail/028-045"
+    },
+    {
+      "citation": "Cortese S, Adamo N, Del Giovane C, et al. Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis. Lancet Psychiatry. 2018;5(9):727–738.",
+      "doi": "10.1016/S2215-0366(18)30269-4",
+      "url": "https://doi.org/10.1016/S2215-0366(18)30269-4"
+    },
+    {
+      "citation": "National Institute for Health and Care Excellence (NICE). Attention deficit hyperactivity disorder: diagnosis and management. NICE guideline NG87.",
+      "url": "https://www.nice.org.uk/guidance/ng87"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "absetzen-antidepressiva-nma",
+  "section": "news",
+  "issue": "2026-11-01",
+  "order": 4,
+  "areas": [
+    "Pharmakotherapie",
+    "Psychotherapie",
+    "Psychiatrie"
+  ],
+  "tags": [
+    "Antidepressiva",
+    "Absetzen",
+    "Deprescribing",
+    "Ausschleichen",
+    "Rückfall",
+    "SSRI",
+    "SNRI",
+    "Netzwerk-Metaanalyse"
+  ],
+  "readMinutes": 8,
+  "title": "Antidepressiva absetzen: Langsames Ausschleichen plus Psychotherapie schützt so gut wie Weiterbehandlung",
+  "subtitle": "Eine Netzwerk-Metaanalyse mit 76 RCTs und über 17.000 Teilnehmenden vergleicht erstmals systematisch alle gängigen Absetzstrategien bei remittierter Depression und Angststörung.",
+  "summary": "Lancet Psychiatry: Langsames Ausschleichen (> 4 Wochen) mit psychologischer Begleitung verhinderte Rückfälle ähnlich gut wie die Fortführung der Antidepressiva und etwa einen Rückfall pro fünf Behandelten im Vergleich zu abruptem oder schnellem Absetzen.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "The Lancet Psychiatry (online 12/2025)"
+    },
+    {
+      "label": "Design",
+      "value": "Systematische Übersicht + Netzwerk-Metaanalyse"
+    },
+    {
+      "label": "Umfang",
+      "value": "76 RCTs, 17.379 Erwachsene"
+    },
+    {
+      "label": "Indikationen",
+      "value": "60 Depression, 16 Angststörungen"
+    },
+    {
+      "label": "Follow-up",
+      "value": "Ø 10–11 Monate"
+    },
+    {
+      "label": "Evidenzqualität",
+      "value": "Moderat (Hauptbefund) bis niedrig"
+    }
+  ],
+  "keyPoints": [
+    "**Langsames Ausschleichen über mehr als vier Wochen plus psychologische Unterstützung** war hinsichtlich Rückfallprävention etwa gleichwertig mit der Weiterbehandlung in Standarddosis (moderate Evidenzqualität).",
+    "Gegenüber abruptem Absetzen oder schnellem Ausschleichen (≤ 4 Wochen) verhinderte diese Strategie rechnerisch etwa **einen Rückfall pro fünf Behandelte**.",
+    "Eine Dosisreduktion auf ≤ 50 % der minimal wirksamen Dosis war abruptem und schnellem Absetzen überlegen, bei schwächerer Evidenz.",
+    "Daten zu Absetzsymptomen, Lebensqualität und psychosozialem Funktionsniveau waren spärlich."
+  ],
+  "body": "## Hintergrund\nViele Menschen nehmen Antidepressiva deutlich länger ein, als Leitlinien für die Erhaltungstherapie vorsehen. Gründe sind unter anderem die Sorge vor Rückfällen und vor Absetzsymptomen. Gleichzeitig wünschen sich zahlreiche Patientinnen und Patienten nach stabiler Remission ein Absetzen. Bisher fehlte ein systematischer Vergleich der verschiedenen Strategien in einem gemeinsamen Analysemodell.\n\n## Methodik\nDie Arbeitsgruppe um Giovanni Ostuzzi (Universität Verona) mit Beteiligung aus Rennes, Paris und Padua führte eine systematische Übersicht mit Netzwerk-Metaanalyse durch (Literatursuche bis April 2025). Eingeschlossen wurden randomisierte kontrollierte Studien mit Erwachsenen, deren Depression oder Angststörung vollständig oder teilweise remittiert war.\n\nVerglichen wurden fünf Strategien, jeweils mit und ohne psychologische Unterstützung:\n- abruptes Absetzen (Umstellung auf Placebo)\n- schnelles Ausschleichen (≤ 4 Wochen)\n- langsames Ausschleichen (> 4 Wochen)\n- Dosisreduktion (≤ 50 % der minimal wirksamen Dosis)\n- Fortführung in Standarddosis\n\nDie 76 Studien umfassten 17.379 Teilnehmende (mittleres Alter 45 Jahre, 68 % Frauen, 88 % weiß). Die meisten nahmen SSRI oder SNRI ein. Die mittlere Nachbeobachtung betrug 10–11 Monate. Die Studie wurde ohne Drittmittel durchgeführt.\n\n## Ergebnisse\n- Langsames Ausschleichen plus psychologische Unterstützung war in der Rückfallprävention mit der Fortführung vergleichbar (moderate Evidenzqualität).\n- Im Vergleich zu abruptem Absetzen und schnellem Ausschleichen wurde etwa ein Rückfall pro fünf behandelten Personen verhindert.\n- Die Dosisreduktion schnitt besser ab als abruptes und schnelles Absetzen, bei schwächerer Evidenz.\n- Die Ergänzung psychologischer Unterstützung verbesserte bei beiden Ausschleich-Strategien die Rückfallrate gegenüber dem Ausschleichen allein (niedrige Evidenzqualität).\n- Bei Nebenwirkungen und Studienabbrüchen fanden sich keine signifikanten Unterschiede zwischen den Strategien.\n\n## Limitationen\n- Absetzsymptome, Lebensqualität und Funktionsniveau wurden in den Primärstudien kaum erfasst – gerade diese Endpunkte sind für die klinische Entscheidung jedoch wichtig.\n- Die Evidenz für den Zusatznutzen der Psychotherapie ist von niedriger Sicherheit.\n- Für Angststörungen ist die Datenlage weniger robust als für Depression.\n- Die Stichproben waren überwiegend weiß, was die Übertragbarkeit einschränkt.\n- In einem begleitenden Kommentar wird darauf hingewiesen, dass die Effektstärken der Psychotherapie hier nicht über denen der Pharmakotherapie lagen.\n\n## Einordnung\nDie Ergebnisse passen zu Daten, nach denen ein relevanter Anteil der Absetzenden Absetzsymptome erlebt, und zur zunehmenden Empfehlung eines hyperbolischen bzw. graduellen Ausschleichens. Sie liefern erstmals vergleichende Evidenz dafür, dass die Geschwindigkeit des Absetzens und die psychotherapeutische Begleitung für das Rückfallrisiko bedeutsam sind.",
+  "practice": "Wenn nach stabiler Remission ein Absetzen geplant ist, spricht die Evidenz für ein langsames Ausschleichen über mehr als vier Wochen – bei Bedarf deutlich länger und in kleiner werdenden Schritten – kombiniert mit psychotherapeutischer Begleitung (z. B. KVT oder MBCT zur Rückfallprophylaxe). Abruptes Absetzen und sehr schnelle Reduktionen sollten vermieden werden. Ein schriftlicher Absetzplan mit Beobachtung von Absetz- und Frühwarnsymptomen erleichtert die Unterscheidung zwischen Absetzphänomenen und Rückfall.",
+  "sources": [
+    {
+      "citation": "Ostuzzi G, Zaccoletti D, et al. Comparison of antidepressant deprescribing strategies in individuals with clinically remitted depression: a systematic review and network meta-analysis. Lancet Psychiatry. Online veröffentlicht am 10.12.2025.",
+      "doi": "10.1016/S2215-0366(25)00330-X",
+      "url": "https://doi.org/10.1016/S2215-0366(25)00330-X"
+    },
+    {
+      "citation": "EurekAlert!: The Lancet Psychiatry – Slow tapering plus therapy most effective strategy for stopping antidepressants (Pressemitteilung)",
+      "url": "https://www.eurekalert.org/news-releases/1109131"
+    }
+  ]
+}

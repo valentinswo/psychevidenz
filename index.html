@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Fachinformationen zu Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie: wöchentliche Forschungsneuigkeiten und Wissensbeiträge mit Quellen.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#2f6f73">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6f73'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='17' fill='white' text-anchor='middle'%3EPE%3C/text%3E%3C/svg%3E">
+<title>PsychEvidenz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: ruhige Lese-App — Kopfzeile mit Bereichen, schmale Leselinie, Beitrag öffnet als eigene Ansicht */
+:root{
+  --bg:#f3f6f6; --surface:#ffffff; --surface-2:#e8eeee; --line:#d3dddd;
+  --fg:#1d2a2c; --muted:#5a6b6e; --accent:#2f6f73; --accent-soft:#dbeaea; --accent-fg:#ffffff;
+  --warm:#8a5a2b; --warm-soft:#f3e9de;
+  --font-display:"Spectral", Georgia, "Times New Roman", serif;
+  --font-body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121a1c; --surface:#182225; --surface-2:#1f2b2e; --line:#2c3a3d;
+  --fg:#dfe8e8; --muted:#97a8aa; --accent:#7fb9bb; --accent-soft:#213a3c; --accent-fg:#0f1a1b;
+  --warm:#d9a774; --warm-soft:#2e2620; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121a1c; --surface:#182225; --surface-2:#1f2b2e; --line:#2c3a3d;
+  --fg:#dfe8e8; --muted:#97a8aa; --accent:#7fb9bb; --accent-soft:#213a3c; --accent-fg:#0f1a1b;
+  --warm:#d9a774; --warm-soft:#2e2620; color-scheme:dark}
+:root[data-theme="light"]{color-scheme:light}
+*{box-sizing:border-box}
+body{margin:0}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+a{color:var(--accent)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:16px;padding-block:12px;flex-wrap:wrap}
+.brand{display:flex;align-items:baseline;gap:10px;margin-right:auto;min-width:0}
+.brand b{font-family:var(--font-display);font-weight:600;font-size:1.45rem;letter-spacing:.005em}
+.brand span{font-size:.78rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.iconbtn{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:36px;padding:0 12px;border:1px solid var(--line);background:var(--surface);border-radius:999px;cursor:pointer;font-size:.85rem;color:var(--muted)}
+.iconbtn:hover{color:var(--fg);border-color:var(--muted)}
+.iconbtn svg{width:16px;height:16px}
+nav.tabs{display:flex;gap:4px;overflow-x:auto;padding-bottom:0}
+nav.tabs button{background:none;border:0;padding:10px 14px 12px;cursor:pointer;color:var(--muted);font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
+nav.tabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+nav.tabs .count{font-family:var(--font-mono);font-size:.72rem;margin-left:6px;padding:1px 6px;border-radius:999px;background:var(--surface-2);color:var(--muted)}
+
+main{padding-block:28px 64px}
+.issue{display:grid;gap:6px;margin-bottom:22px}
+.eyebrow{font-size:.74rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.issue h1{font-family:var(--font-display);font-weight:500;font-size:clamp(1.6rem,4vw,2.2rem);line-height:1.2;margin:0;text-wrap:balance}
+.issue p{margin:0;color:var(--muted);max-width:62ch}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:22px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px;font-size:.84rem;cursor:pointer;color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-fg)}
+.search{flex:1 1 220px;min-width:0;display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:0 14px;height:36px}
+.search input{border:0;background:transparent;outline:none;width:100%;font:inherit;font-size:.9rem;color:var(--fg)}
+.search svg{width:15px;height:15px;color:var(--muted);flex:none}
+
+.group-h{display:flex;align-items:baseline;gap:12px;margin:30px 0 12px;font-size:.8rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.group-h::after{content:"";flex:1;height:1px;background:var(--line)}
+.group-h:first-child{margin-top:0}
+.list{display:grid;gap:14px}
+.card{display:grid;grid-template-columns:1fr auto;gap:6px 16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;cursor:pointer;text-align:left;width:100%}
+.card:hover{border-color:var(--accent)}
+.card .meta{grid-column:1/-1;display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:.78rem;color:var(--muted)}
+.tag{font-size:.72rem;letter-spacing:.04em;padding:2px 8px;border-radius:4px;background:var(--accent-soft);color:var(--accent);font-weight:500}
+.tag.warm{background:var(--warm-soft);color:var(--warm)}
+.card h2{grid-column:1;font-family:var(--font-display);font-weight:500;font-size:1.28rem;line-height:1.3;margin:2px 0 0;text-wrap:balance;min-width:0}
+.card p{grid-column:1;margin:0;color:var(--muted);font-size:.94rem;min-width:0}
+.card .side{grid-column:2;grid-row:2/4;display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.card.read .dot{background:transparent;border:1px solid var(--line)}
+.card.read h2{color:var(--muted)}
+.mono{font-family:var(--font-mono);font-variant-numeric:tabular-nums}
+.empty{border:1px dashed var(--line);border-radius:var(--radius);padding:28px;color:var(--muted);text-align:center;background:var(--surface)}
+.note{font-size:.82rem;color:var(--muted)}
+
+/* Artikelansicht */
+article.post{max-width:720px;margin:0 auto}
+.back{margin-bottom:22px}
+.post-head{display:grid;gap:10px;margin-bottom:24px}
+.post-head h1{font-family:var(--font-display);font-weight:500;font-size:clamp(1.7rem,4.5vw,2.4rem);line-height:1.18;margin:0;text-wrap:balance}
+.post-head .sub{font-size:1.06rem;color:var(--muted);margin:0}
+.post-actions{display:flex;gap:8px;flex-wrap:wrap}
+.factbox{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;margin:0 0 28px}
+.factbox div{background:var(--surface);padding:12px 14px;min-width:0}
+.factbox dt{font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 2px}
+.factbox dd{margin:0;font-size:.9rem;font-weight:500;overflow-wrap:break-word;hyphens:auto}
+.keypoints{background:var(--accent-soft);border-radius:var(--radius);padding:18px 22px;margin:0 0 30px}
+.keypoints h3{margin:0 0 8px;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+.keypoints ul{margin:0;padding-left:20px;display:grid;gap:6px}
+.prose{font-size:1.02rem;line-height:1.72}
+.prose h2{font-family:var(--font-display);font-weight:500;font-size:1.4rem;line-height:1.3;margin:2em 0 .5em;text-wrap:balance}
+.prose h3{font-size:1rem;font-weight:600;margin:1.6em 0 .4em}
+.prose p{margin:0 0 1em;max-width:68ch}
+.prose ul{margin:0 0 1em;padding-left:22px;display:grid;gap:4px}
+.prose strong{font-weight:600}
+.practice{border:1px solid var(--warm);background:var(--warm-soft);border-radius:var(--radius);padding:18px 22px;margin:30px 0}
+.practice h3{margin:0 0 6px;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--warm)}
+.practice p{margin:0}
+.sources{border-top:1px solid var(--line);margin-top:36px;padding-top:20px}
+.sources h3{font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+.sources ol{margin:0;padding-left:22px;display:grid;gap:10px;font-size:.9rem}
+.sources .src-meta{color:var(--muted)}
+.sources a{overflow-wrap:anywhere}
+footer.disc{border-top:1px solid var(--line);padding-block:20px 32px;color:var(--muted);font-size:.8rem}
+footer.disc p{margin:0 0 6px;max-width:80ch}
+.status{font-size:.8rem;color:var(--muted);padding:8px 12px;border-radius:8px;background:var(--surface-2);margin-bottom:16px}
+@media (max-width:560px){
+  .card{grid-template-columns:1fr;padding:16px}
+  .card .side{grid-column:1;grid-row:auto;flex-direction:row;align-items:center}
+  .brand span{display:none}
+}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .15s}}
+</style>
+
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="bar">
+      <div class="brand"><b>PsychEvidenz</b><span>Psychiatrie · Psychotherapie · KJP</span></div>
+      <button class="iconbtn" id="themeBtn" type="button" aria-label="Hell- oder Dunkelmodus wechseln">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <span id="themeLabel">Dunkel</span>
+      </button>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" id="tab-news" data-view="news" aria-selected="true">Neuigkeiten<span class="count mono" id="c-news">0</span></button>
+      <button role="tab" id="tab-wissen" data-view="wissen" aria-selected="false">Wissensblog<span class="count mono" id="c-wissen">0</span></button>
+      <button role="tab" id="tab-merk" data-view="merk" aria-selected="false">Merkliste<span class="count mono" id="c-merk">0</span></button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <section id="listView">
+    <div class="issue" id="issueHead">
+      <div class="eyebrow" id="issueEyebrow">Wochenausgabe</div>
+      <h1 id="issueTitle">Neue Forschung, jeden Montag</h1>
+      <p id="issueText">Ausführliche Besprechungen aktueller Studien aus Fachzeitschriften, mit Quellenangaben zu jedem Beitrag.</p>
+    </div>
+    <div id="statusNote" class="status" hidden></div>
+    <div class="tools">
+      <div class="chips" id="chips"></div>
+      <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="Suche nach Wirkstoff, Diagnose, Studie …" aria-label="Beiträge durchsuchen"></label>
+    </div>
+    <div id="list"></div>
+  </section>
+  <section id="postView" hidden></section>
+</main>
+
+<footer class="disc wrap">
+  <p><strong>Nur zur Information für Fachpersonal.</strong> Die Beiträge fassen veröffentlichte Literatur zusammen und ersetzen weder Fachinformation, Leitlinien noch die individuelle ärztliche Entscheidung. Dosierungen und Zulassungsstatus stets anhand der aktuellen Fachinformation prüfen.</p>
+  <p>Neue Beiträge erscheinen automatisch jeden Montag. Merkliste, Lesestatus und Darstellung werden nur in Ihrem Browser gespeichert – ohne Konto, ohne Tracking.</p>
+</footer>
+
+<script>
+(function(){
+  const AREAS=["Alle","Psychiatrie","Psychotherapie","KJP","Pharmakotherapie"];
+  const state={posts:[],view:"news",area:"Alle",q:"",open:null,saved:new Set(),read:new Set(),loaded:false};
+  const prefMode="local", prefRef=null;
+  const $=s=>document.querySelector(s);
+  const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const fmtDate=d=>{try{return new Date(d+"T12:00:00").toLocaleDateString("de-DE",{weekday:"long",day:"numeric",month:"long",year:"numeric"})}catch(e){return d}};
+  const fmtShort=d=>{try{return new Date(d+"T12:00:00").toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}catch(e){return d}};
+
+  /* Theme */
+  function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+  function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+  function isDark(){const t=document.documentElement.dataset.theme;if(t)return t==="dark";return matchMedia("(prefers-color-scheme: dark)").matches}
+  function applyThemeLabel(){$("#themeLabel").textContent=isDark()?"Hell":"Dunkel"}
+  const savedTheme=lsGet("pe-theme"); if(savedTheme)document.documentElement.dataset.theme=savedTheme;
+  applyThemeLabel();
+  $("#themeBtn").addEventListener("click",()=>{const n=isDark()?"light":"dark";document.documentElement.dataset.theme=n;lsSet("pe-theme",n);applyThemeLabel()});
+  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",applyThemeLabel);
+
+  /* Persönliche Daten: lokal als Rückfall */
+  function loadLocalPrefs(){try{const p=JSON.parse(lsGet("pe-prefs")||"{}");state.saved=new Set(p.saved||[]);state.read=new Set(p.read||[])}catch(e){}}
+  loadLocalPrefs();
+  let writing=false,pending=false;
+  async function savePrefs(){
+    const body={saved:[...state.saved],read:[...state.read].slice(-500)};
+    lsSet("pe-prefs",JSON.stringify(body));
+    if(prefMode!=="db"||!prefRef)return;
+    if(writing){pending=true;return}
+    writing=true;
+    
+    writing=false;
+    if(pending){pending=false;savePrefs()}
+  }
+
+  /* Chips */
+  $("#chips").innerHTML=AREAS.map(a=>`<button class="chip" data-area="${a}" aria-pressed="${a==="Alle"}">${a}</button>`).join("");
+  $("#chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;state.area=b.dataset.area;document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",c===b));renderList()});
+  $("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();renderList()});
+  document.querySelectorAll("nav.tabs button").forEach(b=>b.addEventListener("click",()=>{location.hash=b.dataset.view==="news"?"neuigkeiten":b.dataset.view==="wissen"?"wissensblog":"merkliste"}));
+
+  function setTab(v){state.view=v;document.querySelectorAll("nav.tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.view===v))}
+
+  function filtered(){
+    let ps=state.posts;
+    if(state.view==="news")ps=ps.filter(p=>p.section==="news");
+    else if(state.view==="wissen")ps=ps.filter(p=>p.section==="wissen");
+    else ps=ps.filter(p=>state.saved.has(p.id));
+    if(state.area!=="Alle")ps=ps.filter(p=>(p.areas||[]).includes(state.area));
+    if(state.q)ps=ps.filter(p=>[p.title,p.subtitle,p.summary,(p.areas||[]).join(" "),(p.tags||[]).join(" "),p.body].join(" ").toLowerCase().includes(state.q));
+    return ps;
+  }
+
+  function renderCounts(){
+    $("#c-news").textContent=state.posts.filter(p=>p.section==="news").length;
+    $("#c-wissen").textContent=state.posts.filter(p=>p.section==="wissen").length;
+    $("#c-merk").textContent=state.posts.filter(p=>state.saved.has(p.id)).length;
+  }
+
+  function renderHead(){
+    const news=state.posts.filter(p=>p.section==="news");
+    const latest=news.map(p=>p.issue).sort().pop();
+    if(state.view==="news"){
+      $("#issueEyebrow").textContent=latest?"Aktuelle Ausgabe · "+fmtDate(latest):"Wochenausgabe";
+      $("#issueTitle").textContent="Neuigkeiten aus der Forschung";
+      $("#issueText").textContent="Ausführliche Besprechungen neuer Studien aus Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie. Jeden Montag erscheint eine neue Ausgabe.";
+    }else if(state.view==="wissen"){
+      $("#issueEyebrow").textContent="Wissensblog";
+      $("#issueTitle").textContent="Grundlagen und Praxiswissen";
+      $("#issueText").textContent="Vertiefende Übersichten zu Krankheitsbildern, Pharmakotherapie und Behandlungsstandards, gestützt auf Leitlinien und Übersichtsarbeiten.";
+    }else{
+      $("#issueEyebrow").textContent="Persönlich";
+      $("#issueTitle").textContent="Meine Merkliste";
+      $("#issueText").textContent="Gespeicherte Beiträge. Die Liste wird nur in diesem Browser auf diesem Gerät gespeichert und ist für niemanden sonst sichtbar.";
+    }
+  }
+
+  function cardHTML(p){
+    const read=state.read.has(p.id), saved=state.saved.has(p.id);
+    return `<button class="card${read?" read":""}" data-id="${esc(p.id)}">
+      <div class="meta">${p.section==="news"?'<span class="tag">Neuigkeit</span>':'<span class="tag warm">Wissen</span>'}${(p.areas||[]).map(a=>`<span>${esc(a)}</span>`).join(" · ")}</div>
+      <h2>${esc(p.title)}</h2>
+      <p>${esc(p.summary)}</p>
+      <div class="side"><span class="dot" title="${read?"Gelesen":"Ungelesen"}"></span><span class="note mono">${p.readMinutes?esc(p.readMinutes)+" Min.":""}</span>${saved?'<span class="note">Gemerkt</span>':""}</div>
+    </button>`;
+  }
+
+  function renderList(){
+    renderCounts();renderHead();
+    const el=$("#list");
+    if(!state.loaded&&!state.posts.length){el.innerHTML='<div class="empty">Beiträge werden geladen …</div>';return}
+    const ps=filtered();
+    if(!ps.length){
+      el.innerHTML=`<div class="empty">${state.view==="merk"?"Noch nichts gemerkt. Öffnen Sie einen Beitrag und tippen Sie auf „Merken“.":state.posts.length?"Keine Beiträge zu dieser Auswahl.":"Noch keine Beiträge. Die erste Ausgabe erscheint am kommenden Montag."}</div>`;return}
+    if(state.view==="news"){
+      const groups={};ps.forEach(p=>{(groups[p.issue]=groups[p.issue]||[]).push(p)});
+      el.innerHTML=Object.keys(groups).sort().reverse().map(k=>`<div class="group-h">Ausgabe vom ${esc(fmtDate(k))}</div><div class="list">${groups[k].map(cardHTML).join("")}</div>`).join("");
+    }else{
+      el.innerHTML=`<div class="list">${ps.map(cardHTML).join("")}</div>`;
+    }
+  }
+  $("#list").addEventListener("click",e=>{const c=e.target.closest(".card");if(c)location.hash=c.dataset.id});
+
+  /* Einfacher Markdown-Renderer: ## / ### / - / **fett** / Absätze */
+  function inline(s){return esc(s).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\*(.+?)\*/g,"<em>$1</em>")}
+  function md(src){
+    const lines=String(src||"").split(/\n/);let out="",para=[],list=[];
+    const flushP=()=>{if(para.length){out+=`<p>${inline(para.join(" "))}</p>`;para=[]}};
+    const flushL=()=>{if(list.length){out+=`<ul>${list.map(i=>`<li>${inline(i)}</li>`).join("")}</ul>`;list=[]}};
+    for(const raw of lines){const l=raw.trim();
+      if(!l){flushP();flushL();continue}
+      if(l.startsWith("### ")){flushP();flushL();out+=`<h3>${inline(l.slice(4))}</h3>`}
+      else if(l.startsWith("## ")){flushP();flushL();out+=`<h2>${inline(l.slice(3))}</h2>`}
+      else if(/^[-•] /.test(l)){flushP();list.push(l.slice(2))}
+      else{flushL();para.push(l)}}
+    flushP();flushL();return out;
+  }
+
+  function renderPost(p){
+    const v=$("#postView");
+    if(!p){v.innerHTML='<div class="empty">Dieser Beitrag wurde nicht gefunden. <a href="#neuigkeiten">Zur Übersicht</a></div>';return}
+    if(!state.read.has(p.id)){state.read.add(p.id);savePrefs()}
+    const saved=state.saved.has(p.id);
+    const facts=(p.facts||[]).map(f=>`<div><dt>${esc(f.label)}</dt><dd>${esc(f.value)}</dd></div>`).join("");
+    const src=(p.sources||[]).map(s=>{
+      const link=s.url||(s.doi?"https://doi.org/"+s.doi:"");
+      return `<li><span>${esc(s.citation||s.title)}</span>${s.doi?` <span class="src-meta mono">DOI: ${esc(s.doi)}</span>`:""}${link?`<br><a href="${esc(link)}" target="_blank" rel="noopener">${esc(link)}</a>`:""}${s.note?`<br><span class="src-meta">${esc(s.note)}</span>`:""}</li>`}).join("");
+    v.innerHTML=`<article class="post">
+      <div class="back"><button class="iconbtn" id="backBtn" type="button">← Zurück zur Übersicht</button></div>
+      <div class="post-head">
+        <div class="meta note">${p.section==="news"?'<span class="tag">Neuigkeit</span>':'<span class="tag warm">Wissen</span>'} &nbsp;${(p.areas||[]).map(esc).join(" · ")} · ${esc(fmtShort(p.issue))}${p.readMinutes?" · "+esc(p.readMinutes)+" Min. Lesezeit":""}</div>
+        <h1>${esc(p.title)}</h1>
+        ${p.subtitle?`<p class="sub">${esc(p.subtitle)}</p>`:""}
+        <div class="post-actions"><button class="iconbtn" id="saveBtn" type="button" aria-pressed="${saved}">${saved?"✓ Gemerkt":"Merken"}</button></div>
+      </div>
+      ${facts?`<dl class="factbox">${facts}</dl>`:""}
+      ${(p.keyPoints||[]).length?`<div class="keypoints"><h3>Kernaussagen</h3><ul>${p.keyPoints.map(k=>`<li>${inline(k)}</li>`).join("")}</ul></div>`:""}
+      <div class="prose">${md(p.body)}</div>
+      ${p.practice?`<div class="practice"><h3>Einordnung für die Praxis</h3><p>${inline(p.practice)}</p></div>`:""}
+      <div class="sources"><h3>Quellen</h3>${src?`<ol>${src}</ol>`:'<p class="note">Keine Quellen angegeben.</p>'}</div>
+    </article>`;
+    $("#backBtn").onclick=()=>{location.hash=p.section==="wissen"?"wissensblog":"neuigkeiten"};
+    $("#saveBtn").onclick=()=>{state.saved.has(p.id)?state.saved.delete(p.id):state.saved.add(p.id);savePrefs();renderPost(p);renderCounts()};
+  }
+
+  function route(){
+    const h=decodeURIComponent(location.hash.slice(1));
+    if(!h||h==="neuigkeiten"||h==="wissensblog"||h==="merkliste"){
+      setTab(h==="wissensblog"?"wissen":h==="merkliste"?"merk":"news");
+      $("#postView").hidden=true;$("#listView").hidden=false;renderList();return;
+    }
+    const p=state.posts.find(x=>x.id===h);
+    if(!p&&!state.loaded){return}
+    if(p)setTab(p.section==="wissen"?"wissen":"news");
+    $("#listView").hidden=true;$("#postView").hidden=false;renderPost(p);window.scrollTo(0,0);
+  }
+  addEventListener("hashchange",route);
+  route();
+
+  /* Daten: statische JSON-Dateien im Ordner posts/ */
+  (async()=>{
+    try{
+      const idx=await fetch("posts/index.json",{cache:"no-cache"}).then(r=>{if(!r.ok)throw 0;return r.json()});
+      const ps=await Promise.all((idx.posts||[]).map(id=>fetch("posts/"+encodeURIComponent(id)+".json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).catch(()=>null)));
+      state.posts=ps.filter(Boolean).map(p=>({...p,id:p.id})).sort((a,b)=>(b.issue||"").localeCompare(a.issue||"")||(a.order||0)-(b.order||0));
+    }catch(e){showStatus("Die Beiträge konnten nicht geladen werden. Bitte laden Sie die Seite neu.")}
+    state.loaded=true;route();
+  })();
+  function showStatus(t){const s=$("#statusNote");s.textContent=t;s.hidden=false}
+  function hideStatus(){$("#statusNote").hidden=true}
+})();
+</script>
+</body>
+</html>

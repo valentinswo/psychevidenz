@@ -1,0 +1,64 @@
+{
+  "id": "episode-psilocybin-2026",
+  "section": "news",
+  "issue": "2026-11-01",
+  "order": 2,
+  "areas": [
+    "Psychiatrie",
+    "Pharmakotherapie",
+    "Psychotherapie"
+  ],
+  "tags": [
+    "Psilocybin",
+    "therapieresistente Depression",
+    "TRD",
+    "Psychedelika",
+    "RCT",
+    "EPISODE"
+  ],
+  "readMinutes": 9,
+  "title": "EPISODE-Studie: Psilocybin bei therapieresistenter Depression verfehlt primären Endpunkt",
+  "subtitle": "Die deutsche Phase-2b-Studie mit aktivem Placebo zeigt klinisch relevante Symptomreduktionen in sekundären Analysen, aber keinen signifikanten Unterschied bei der Responserate nach sechs Wochen.",
+  "summary": "JAMA Psychiatry 2026, n = 144: Response nach 6 Wochen 17,0 % unter 25 mg Psilocybin vs. 10,6 % unter Nicotinamid (OR 1,73; p = 0,19). HAMD-17-Reduktion exploratorisch 4,6 Punkte größer. Die Autoren werten die Studie als nicht schlüssig.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Psychiatry 2026;83(5):448–460"
+    },
+    {
+      "label": "Design",
+      "value": "Phase 2b, RCT, dreifach verblindet, 2 Zentren"
+    },
+    {
+      "label": "Teilnehmende",
+      "value": "n = 144 randomisiert (2:2:1:1)"
+    },
+    {
+      "label": "Intervention",
+      "value": "Psilocybin 25 mg / 5 mg vs. Nicotinamid 100 mg"
+    },
+    {
+      "label": "Primärer Endpunkt",
+      "value": "Response (≥ 50 % HAMD-17) in Woche 6"
+    },
+    {
+      "label": "Evidenzniveau",
+      "value": "RCT, primärer Endpunkt negativ"
+    }
+  ],
+  "keyPoints": [
+    "Responseraten in Woche 6: **17,0 %** (Psilocybin 25 mg), 12,5 % (5 mg), **10,6 %** (Nicotinamid als aktives Placebo); OR 1,73 (95 %-KI 0,53–6,23), p = 0,19.",
+    "Exploratorisch war die mittlere HAMD-17-Reduktion unter 25 mg um **4,6 Punkte** größer als unter Nicotinamid; im Selbstrating (BDI-II) um 7,2 Punkte.",
+    "Unerwünschte Ereignisse traten vor allem akut um die Einnahme auf; suizidale Gedanken an Einnahmetagen bei 4 % unter 25 mg vs. 1–2 % in den Vergleichsgruppen.",
+    "Zwei schwerwiegende Nebenwirkungen nach 25 mg, darunter ein Fall einer persistierenden Wahrnehmungsstörung nach Halluzinogengebrauch (HPPD)."
+  ],
+  "body": "## Hintergrund\nPsilocybin, ein serotonerges Psychedelikum mit vorwiegender Wirkung am 5-HT2A-Rezeptor, wird seit einigen Jahren als Behandlungsoption für die therapieresistente Depression (TRD) untersucht. Frühere Studien, darunter eine große Phase-2b-Dosisfindungsstudie, zeigten rasche antidepressive Effekte nach Einmalgabe. Eine methodische Kernfrage bleibt die Verblindung: Die starke subjektive Wirkung macht eine Entblindung wahrscheinlich und kann Erwartungseffekte verstärken.\n\n## Studiendesign\nDie EPISODE-Studie wurde zwischen Juni 2021 und Februar 2024 an zwei deutschen Universitätskliniken durchgeführt (Federführung u. a. Zentralinstitut für Seelische Gesundheit Mannheim und Charité Berlin; Letztautor Gerhard Gründer). Merkmale:\n- dreifache Verblindung (Teilnehmende, Behandelnde, Ratende)\n- **aktives Placebo**: Nicotinamid 100 mg, das leichte körperliche Empfindungen hervorrufen kann, um die Verblindung zu verbessern\n- vier Gruppen im Verhältnis 2:2:1:1, Psilocybin 25 mg oder 5 mg bzw. Nicotinamid\n- zwei Einnahmesitzungen in Woche 0 und Woche 6, jeweils eingebettet in begleitende Psychotherapie; die zweite Gabe erfolgte erst nach Erhebung des primären Endpunkts\n- 144 Personen randomisiert, 142 in der primären Wirksamkeitsanalyse\n\nPrimärer Endpunkt war die Response, definiert als mindestens 50 % Reduktion auf der Hamilton-Depressionsskala (HAMD-17) in Woche 6.\n\n## Ergebnisse\n### Primärer Endpunkt\nDie Responseraten lagen bei 17,0 % (25 mg), 12,5 % (5 mg) und 10,6 % (Nicotinamid). Der erste hierarchische Vergleich – 25 mg gegen Nicotinamid – war nicht signifikant (OR 1,73; 95 %-KI 0,53–6,23; p = 0,19). Gemäß Prüfplan wurden deshalb keine weiteren konfirmatorischen Tests durchgeführt.\n\n### Sekundäre, exploratorische Endpunkte\n- Die mittlere Veränderung auf der HAMD-17 war unter 25 mg um 4,60 Punkte stärker als unter Nicotinamid (95 %-KI −7,01 bis −2,18).\n- Im Selbstbeurteilungsinstrument BDI-II betrug der Unterschied 7,21 Punkte (95 %-KI −11,86 bis −2,56).\n\nDiese Unterschiede liegen im Bereich dessen, was gemeinhin als klinisch relevant betrachtet wird, sind jedoch aufgrund des negativen primären Endpunkts nur hypothesengenerierend.\n\n### Sicherheit\nDie meisten unerwünschten Ereignisse traten akut im Rahmen der Einnahmesitzungen auf. Suizidgedanken an Einnahmetagen wurden unter 25 mg bei 4 % beobachtet, in den Vergleichsgruppen bei 1–2 %. Zwei schwerwiegende unerwünschte Reaktionen traten nach 25 mg auf, darunter ein Fall von Hallucinogen Persisting Perception Disorder.\n\n## Interpretation\nDie Diskrepanz zwischen dem negativen dichotomen Endpunkt und den positiven kontinuierlichen Maßen ist methodisch bedeutsam. Responseraten sind statistisch weniger effizient als kontinuierliche Skalenwerte; zugleich war die Studie für den gewählten primären Endpunkt angelegt. Die niedrigen Responseraten in allen Gruppen unterscheiden sich deutlich von früheren, teils offenen oder weniger streng verblindeten Studien. Das aktive Placebo könnte Erwartungseffekte reduziert und so zu realistischeren Effektschätzungen beigetragen haben. Die Autorinnen und Autoren bezeichnen die Studie als nicht schlüssig, sehen in den Ergebnissen aber einen weiteren Beitrag zur Evidenz für Psilocybin bei Depression.",
+  "practice": "Psilocybin ist in Deutschland nicht als Arzneimittel zur Depressionsbehandlung zugelassen; eine Anwendung ist nur in Studien oder im Rahmen eng begrenzter Härtefallprogramme möglich. Die EPISODE-Daten unterstreichen, dass die Effektgrößen unter strenger Verblindung moderater ausfallen können als in früheren Arbeiten. Für Patientinnen und Patienten, die nach Psychedelika fragen, ist eine realistische Aufklärung über unsichere Wirksamkeit, akute psychische Risiken (einschließlich Suizidalität an Einnahmetagen) und seltene persistierende Wahrnehmungsstörungen angezeigt.",
+  "sources": [
+    {
+      "citation": "Mertens LJ, Koslowski M, Betzler F, et al.; Gründer G. Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression: The EPISODE Randomized Clinical Trial. JAMA Psychiatry. 2026;83(5):448–460. Online veröffentlicht am 18.03.2026.",
+      "doi": "10.1001/jamapsychiatry.2026.0132",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478"
+    }
+  ]
+}

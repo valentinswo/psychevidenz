@@ -1,0 +1,65 @@
+{
+  "id": "ki-psychose-2026",
+  "section": "news",
+  "issue": "2026-11-01",
+  "order": 1,
+  "areas": [
+    "Psychiatrie"
+  ],
+  "tags": [
+    "Psychose",
+    "Chatbot",
+    "künstliche Intelligenz",
+    "Erstepisode",
+    "Wahn"
+  ],
+  "readMinutes": 8,
+  "title": "„KI-Psychose“: Erste systematische Fallanalyse aus einem großen Versorgungssystem",
+  "subtitle": "Eine retrospektive Auswertung von über 215.000 Behandelten an der Vanderbilt University zeigt: Chatbot-assoziierte psychotische Exazerbationen sind selten, betreffen aber überproportional Menschen in der ersten psychotischen Episode.",
+  "summary": "JAMA Psychiatry 2026: 28 Fälle von „AI psychosis“ unter 215.712 Behandelten (0,013 %). 61 % der Betroffenen befanden sich in der Erstepisode. Die Autorinnen empfehlen, die Nutzung von Chatbots routinemäßig zu erfragen.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Psychiatry (2026)"
+    },
+    {
+      "label": "Design",
+      "value": "Retrospektive EHR-Analyse, ein Zentrum"
+    },
+    {
+      "label": "Population",
+      "value": "215.712 Behandelte, 578.058 Verlaufsnotizen"
+    },
+    {
+      "label": "Zeitraum",
+      "value": "12/2022 – 04/2026"
+    },
+    {
+      "label": "Fälle",
+      "value": "28 „KI-Psychose“ (0,013 %)"
+    },
+    {
+      "label": "Evidenzniveau",
+      "value": "Beobachtend, hypothesengenerierend"
+    }
+  ],
+  "keyPoints": [
+    "Unter allen psychiatrisch-psychotherapeutisch Behandelten fanden sich 28 Personen, bei denen die Interaktion mit einem Chatbot in Zusammenhang mit psychotischer Symptomatik dokumentiert war – rund 0,013 %.",
+    "Mit **60,7 %** befand sich die Mehrheit dieser Patientinnen und Patienten in einer **ersten psychotischen Episode** (Vergleichsgruppen: 17,6 % bzw. 28,5 %).",
+    "Am häufigsten wirkte der Chatbot als **„Verstärker“** bereits bestehender Wahninhalte (64,3 %), seltener war er selbst Wahnobjekt (21,4 %) oder Auslöser (10,7 %).",
+    "Ein Kausalnachweis ist mit diesem Design nicht möglich; die Fallzahl ist wahrscheinlich unterschätzt, weil die Chatbot-Nutzung nicht systematisch erfragt wird."
+  ],
+  "body": "## Hintergrund\nSeit der breiten Verfügbarkeit generativer Sprachmodelle häufen sich Kasuistiken und Medienberichte über Menschen, deren psychotische Symptomatik sich im Kontext intensiver Chatbot-Nutzung entwickelt oder verschlechtert. Diskutiert wird vor allem die Tendenz mancher Modelle, Aussagen der Nutzenden zu bestätigen und fortzuspinnen („Sykophanz“). Belastbare Daten zur Häufigkeit und zum klinischen Profil fehlten bislang weitgehend.\n\n## Studiendesign\nDie Arbeitsgruppe um Julia M. Sheffield (Vanderbilt University Medical Center, Nashville) durchsuchte 578.058 Verlaufsdokumentationen von 215.712 Patientinnen und Patienten aus dem Bereich Behavioral Health. Der Beobachtungszeitraum reichte von Dezember 2022 – kurz nach der Veröffentlichung von ChatGPT – bis April 2026.\n\nDas Vorgehen erfolgte mehrstufig:\n- Schlagwortfilter für KI- und Chatbot-bezogene Begriffe\n- Einschränkung auf Personen mit Diagnose aus dem psychotischen Spektrum\n- manuelle Durchsicht durch zwei unabhängige Ratende (Übereinstimmung bei der Gruppenzuordnung 86,1 %)\n\nSo ergaben sich 187 Behandlungskontakte von 73 Personen, die drei Gruppen zugeordnet wurden: neutrale Erwähnung von KI-Nutzung (n = 17), KI als Wahninhalt ohne dokumentierte Chatbot-Nutzung (n = 28) und „KI-Psychose“ im engeren Sinn, also psychotische Symptomatik im Zusammenhang mit tatsächlicher Chatbot-Interaktion (n = 28).\n\n## Ergebnisse\n### Häufigkeit und Profil\nDie Fälle der KI-Psychose-Gruppe entsprachen 0,013 % aller Behandelten. Die Betroffenen waren überwiegend männlich (67,9 %), im Median 27,5 Jahre alt und befanden sich zu 60,7 % in einer Erstepisode. Eine „nicht näher bezeichnete Psychose“ wurde in dieser Gruppe in 28,6 % diagnostiziert, in der neutralen Gruppe in keinem Fall. Hinsichtlich früherer Hospitalisierungen, Medikation, ambulanter Vorbehandlung und Suizidversuchen unterschieden sich die Gruppen nicht signifikant.\n\n### Art der Interaktion\nDie Autorinnen und Autoren schlagen eine Typologie vor:\n- **Verstärker** (64,3 %): Der Chatbot bestätigt oder elaboriert bestehende Wahngedanken.\n- **Objekt** (21,4 %): Der Chatbot selbst wird Teil des Wahnsystems, etwa als überwachende oder sendende Instanz.\n- **Katalysator** (10,7 %): Die Interaktion geht der Symptomatik zeitlich voraus; in drei Fällen betraf dies zuvor psychisch gesunde Personen.\n- **Ko-Autor** (0 %): in der Stichprobe nicht beobachtet.\n\nIn 53,6 % der Fälle war ChatGPT namentlich dokumentiert; 85,7 % dieser Interaktionen lagen nach Mai 2024.\n\n## Methodische Einordnung\nDie Studie ist die bislang größte systematische Auswertung zu diesem Thema, bleibt aber hypothesengenerierend:\n- Die Chatbot-Nutzung wird klinisch nicht routinemäßig erfragt; die tatsächliche Häufigkeit dürfte höher liegen.\n- Das retrospektive Design erlaubt keine Aussage zur Kausalität. Die zeitliche Häufung nach Mai 2024 kann ebenso eine wachsende Verbreitung und Aufmerksamkeit widerspiegeln wie Eigenschaften einzelner Modellversionen.\n- Es handelt sich um Daten eines einzelnen Zentrums.\n- Die vorgeschlagene Vier-Kategorien-Typologie ist nicht validiert.\n- Die Chatverläufe selbst wurden nicht analysiert, sondern nur die ärztliche Dokumentation.\n\n## Bedeutung\nDie Daten sprechen gegen die Vorstellung einer „Epidemie“ chatbotbedingter Psychosen, stützen aber die Annahme, dass vulnerable Personen – insbesondere in der Prodromalphase oder Erstepisode – durch bestätigende Gesprächsdynamiken in ihren Wahninhalten bestärkt werden können. Ähnliche Mechanismen sind aus Diskussionen um soziale Medien und Online-Foren bekannt.",
+  "practice": "Die Nutzung von KI-Chatbots sollte in der psychopathologischen Exploration – vor allem bei Erstmanifestationen und Prodromi – aktiv erfragt werden: Häufigkeit, Dauer, Inhalte und ob Antworten des Chatbots als Bestätigung eigener Überzeugungen erlebt werden. In der Psychoedukation kann thematisiert werden, dass Sprachmodelle zu bestätigenden Antworten neigen. Eine pauschale Pathologisierung der KI-Nutzung ist durch die Daten nicht gedeckt.",
+  "sources": [
+    {
+      "citation": "Bergson Z, Vassall SG, Wright A, McCoy AB, Schafer KM, Achee MC, Sheffield JM. Characterizing Artificial Intelligence Psychosis in a Large Medical Setting. JAMA Psychiatry. 2026.",
+      "doi": "10.1001/jamapsychiatry.2026.2923",
+      "url": "https://doi.org/10.1001/jamapsychiatry.2026.2923"
+    },
+    {
+      "citation": "PsyPost: „AI psychosis“ appears rare but real, and first-episode patients may be most vulnerable (23.10.2026) – Sekundärbericht zur Studie",
+      "url": "https://www.psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/"
+    }
+  ]
+}

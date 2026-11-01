@@ -1,0 +1,66 @@
+{
+  "id": "methylphenidat-psychoserisiko-2026",
+  "section": "news",
+  "issue": "2026-11-01",
+  "order": 3,
+  "areas": [
+    "KJP",
+    "Pharmakotherapie"
+  ],
+  "tags": [
+    "ADHS",
+    "Methylphenidat",
+    "Psychose",
+    "Registerstudie",
+    "Finnland",
+    "Stimulanzien"
+  ],
+  "readMinutes": 7,
+  "title": "Methylphenidat in der Kindheit und späteres Psychoserisiko: Finnische Registerdaten geben Entwarnung",
+  "subtitle": "Eine Analyse mit Daten von fast 700.000 in Finnland Geborenen findet keinen Hinweis auf ein erhöhtes Psychoserisiko unter Methylphenidat – bei Behandlungsbeginn vor dem 13. Lebensjahr sogar ein geringeres.",
+  "summary": "JAMA Psychiatry 2026 (Healy, Kelleher et al.): Bei knapp 4.000 jungen Menschen mit ADHS war Methylphenidat nicht mit erhöhtem Psychoserisiko verbunden. Eine Behandlung vor dem 13. Lebensjahr ging mit einem niedrigeren Risiko im Erwachsenenalter einher.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Psychiatry (2026)"
+    },
+    {
+      "label": "Datengrundlage",
+      "value": "Finnische Gesundheitsregister, ~700.000 Geburten"
+    },
+    {
+      "label": "ADHS-Kohorte",
+      "value": "knapp 4.000 junge Menschen"
+    },
+    {
+      "label": "Exposition",
+      "value": "Methylphenidat"
+    },
+    {
+      "label": "Methodik",
+      "value": "Nutzung regionaler Verschreibungsunterschiede"
+    },
+    {
+      "label": "Evidenzniveau",
+      "value": "Beobachtend (quasi-experimentell)"
+    }
+  ],
+  "keyPoints": [
+    "**Kein Hinweis** darauf, dass Methylphenidat das Risiko einer späteren psychotischen Störung erhöht.",
+    "Bei Behandlung **vor dem 13. Lebensjahr** war das Psychoserisiko im Erwachsenenalter geringer; die Autoren sprechen von einem möglichen protektiven Effekt.",
+    "Dieser Zusammenhang fand sich nicht bei Behandlungsbeginn in der Adoleszenz oder im Erwachsenenalter.",
+    "Zur Kontrolle von Indikations-Verzerrung nutzten die Forschenden natürliche Unterschiede in der Verschreibungspraxis zwischen finnischen Krankenhausbezirken."
+  ],
+  "body": "## Hintergrund\nPsychotische Symptome sind eine bekannte, wenn auch seltene unerwünschte Wirkung von Stimulanzien. Die Fachinformationen für Methylphenidat führen psychotische Symptome als mögliche Nebenwirkung auf, und eine positive Anamnese für Psychosen gilt als Grund zur besonderen Vorsicht. Gleichzeitig haben Kinder mit ADHS unabhängig von der Medikation ein erhöhtes Risiko für spätere psychotische Störungen. Beobachtungsstudien sind daher anfällig für Indikations-Verzerrung (confounding by indication): Stärker beeinträchtigte Kinder werden häufiger behandelt und haben zugleich ein höheres Grundrisiko.\n\n## Methodik\nDas Team um Colm Healy (University College Dublin) und Ian Kelleher (University of Edinburgh) nutzte landesweite Gesundheitsregister mit Daten von fast 700.000 in Finnland geborenen Personen. Innerhalb dieser Population wurden knapp 4.000 junge Menschen mit ADHS-Diagnose identifiziert.\n\nDer methodische Kern: Statt nur behandelte mit unbehandelten Kindern zu vergleichen, nutzten die Forschenden die **natürlichen Unterschiede in der Verschreibungshäufigkeit zwischen den finnischen Krankenhausbezirken**. Wenn die Wahrscheinlichkeit einer Behandlung stärker vom Wohnort als von individuellen Merkmalen abhängt, lässt sich der Effekt der Medikation besser von der Schwere der Erkrankung trennen. Dieser Ansatz ähnelt einer Instrumentalvariablen-Analyse.\n\n## Ergebnisse\n- Insgesamt fand sich kein Hinweis darauf, dass Methylphenidat das Risiko einer späteren psychotischen Störung erhöht.\n- Bei Beginn der Behandlung vor dem 13. Lebensjahr war das Risiko für eine Psychose im Erwachsenenalter niedriger.\n- Bei Behandlungsbeginn in der Adoleszenz oder im Erwachsenenalter zeigte sich dieser Zusammenhang nicht.\n\nDie Autoren interpretieren dies als Hinweis, dass die Wirkung je nach Entwicklungsphase unterschiedlich sein könnte, und betonen, dass der mögliche protektive Effekt weiter untersucht werden muss.\n\n## Einordnung der Evidenz\nDie Studie ergänzt frühere Registerarbeiten, die kein erhöhtes Langzeitrisiko für Psychosen unter Stimulanzien fanden. Einschränkend ist zu beachten:\n- Quasi-experimentelle Designs beruhen auf Annahmen, etwa dass sich die Krankenhausbezirke nicht in anderen, psychoserelevanten Faktoren unterscheiden. Residuales Confounding ist nicht ausgeschlossen.\n- Die Ergebnisse betreffen Methylphenidat; eine Übertragung auf Amphetamin-Präparate ist nicht ohne Weiteres möglich. Einzelne Studien haben unter Amphetaminen ein höheres Psychoserisiko als unter Methylphenidat beschrieben.\n- Effektgrößen (Hazard Ratios, Konfidenzintervalle) lagen uns bei Redaktionsschluss nur über die Pressemitteilung vor; die genauen Zahlen sind der Originalpublikation zu entnehmen.\n- Akute, dosisabhängige psychotische Nebenwirkungen im Einzelfall werden durch Populationsdaten zum Langzeitrisiko nicht widerlegt.",
+  "practice": "Die Befunde können in der Aufklärung von Eltern helfen, die eine Behandlung aus Sorge vor späteren Psychosen ablehnen: Für Methylphenidat spricht die aktuelle Evidenz nicht für ein erhöhtes Langzeitrisiko. Das reguläre Monitoring bleibt unverändert – neu auftretende psychotische oder manische Symptome unter Stimulanzien erfordern eine Neubewertung, und bei familiärer oder eigener Psychose-Vorgeschichte ist eine besonders sorgfältige Nutzen-Risiko-Abwägung angezeigt.",
+  "sources": [
+    {
+      "citation": "Healy C, Kelleher I, et al. Methylphenidat-Behandlung bei ADHS und Risiko späterer psychotischer Störungen – finnische Registerstudie. JAMA Psychiatry. 2026.",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846833"
+    },
+    {
+      "citation": "University College Dublin: ADHD medication in childhood may reduce later psychosis risk (Pressemitteilung, 26.03.2026)",
+      "url": "https://www.ucd.ie/newsandopinion/news/2026/march/26/adhdmedicationinchildhoodmayreducelaterpsychosisrisk/"
+    }
+  ]
+}
