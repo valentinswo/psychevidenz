@@ -1,0 +1,67 @@
+{
+  "id": "antipsychotika-metabolik-jugendliche-2026",
+  "section": "news",
+  "issue": "2026-11-02",
+  "order": 1,
+  "areas": [
+    "KJP",
+    "Pharmakotherapie"
+  ],
+  "tags": [
+    "Antipsychotika",
+    "Kinder und Jugendliche",
+    "Dyslipidämie",
+    "Hyperglykämie",
+    "metabolisches Monitoring",
+    "Self-Controlled Case Series"
+  ],
+  "readMinutes": 8,
+  "title": "Antipsychotika bei Kindern und Jugendlichen: Metabolische Auffälligkeiten häufen sich in den ersten drei Monaten",
+  "subtitle": "Eine Self-Controlled-Case-Series aus Hongkong mit über 15 000 jungen Erstanwendern zeigt den zeitlichen Verlauf von Dyslipidämie und Hyperglykämie unter Antipsychotika.",
+  "summary": "JAMA Network Open, 28.10.2026: Bei 15 219 Kindern und Jugendlichen (6–17 Jahre) war die Rate neu erkannter metabolischer Auffälligkeiten in den Tagen 31–90 nach Beginn knapp 8-fach erhöht (IRR 7,71) und blieb unter fortgesetzter Behandlung etwa 4-fach erhöht. Die Daten stützen ein engmaschiges Monitoring in den ersten drei Monaten und danach regelmäßige Kontrollen.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Network Open 2026;9(10):e2639615 (Research Letter)"
+    },
+    {
+      "label": "Design",
+      "value": "Self-Controlled Case Series (SCCS), Routinedaten"
+    },
+    {
+      "label": "Datenquelle",
+      "value": "Hospital Authority Hongkong, 2005–2024"
+    },
+    {
+      "label": "Population",
+      "value": "n = 15 219 Antipsychotika-Erstanwender, 6–17 Jahre"
+    },
+    {
+      "label": "Endpunkte",
+      "value": "neu erkannte Hyperglykämie und Dyslipidämie"
+    },
+    {
+      "label": "Evidenzniveau",
+      "value": "Beobachtungsstudie, Within-Person-Vergleich"
+    }
+  ],
+  "keyPoints": [
+    "In der Phase **31–90 Tage** nach Beginn war die Rate erkannter metabolischer Auffälligkeiten gegenüber unbehandelten Zeiträumen derselben Personen am stärksten erhöht (**IRR 7,71**; 95 %-KI 5,15–11,55).",
+    "Auch bei Behandlung über **91 Tage** hinaus blieb die Rate erhöht (IRR 3,94; 95 %-KI 2,91–5,33), ebenso in späteren Behandlungsepisoden (IRR 3,71).",
+    "Dyslipidämie war deutlich häufiger als Hyperglykämie (447 vs. 115 Betroffene); auch Hyperglykämien traten unter Behandlung vermehrt auf (z. B. IRR 5,93 in Tag 31–90).",
+    "Die sehr hohen Raten in der ersten Woche (IRR 55,6) und die erhöhten Raten vor Beginn spiegeln nach Einschätzung der Autoren vor allem vermehrte Labordiagnostik um den Behandlungsstart wider."
+  ],
+  "body": "## Hintergrund\nAntipsychotika werden im Kindes- und Jugendalter bei Psychosen, bipolaren Störungen, Tic-Störungen und vor allem bei schweren impulsiv-aggressiven Verhaltensstörungen eingesetzt, häufig auch außerhalb der Zulassung. Dass Kinder und Jugendliche besonders empfindlich auf die metabolischen Wirkungen insbesondere von Antipsychotika der zweiten Generation reagieren, ist seit Längerem bekannt. Weniger klar ist, wie sich das Risiko für neu auftretende Stoffwechselauffälligkeiten über die Zeit verteilt – also wann Kontrollen besonders ertragreich sind.\n\n## Studiendesign\nDie Arbeitsgruppe um Francisco Tsz Tsun Lai (University of Hong Kong) nutzte die elektronischen Behandlungsdaten der Hospital Authority, die die öffentliche Versorgung in Hongkong nahezu flächendeckend abbildet. Eingeschlossen wurden Kinder und Jugendliche im Alter von 6 bis 17 Jahren, die zwischen 2005 und 2023 erstmals ein Antipsychotikum erhielten (Washout 12 Monate); die Nachbeobachtung reichte bis Ende 2024.\n\n- **Population:** 15 219 Erstanwender, mittleres Alter bei Erstverordnung 12,9 Jahre, 59,7 % männlich\n- **Ausschlüsse:** Behandlungsepisoden unter 8 Tagen, familiäre Hypercholesterinämie, Typ-1-Diabetes\n- **Endpunkte:** erstmals erfasste Hyperglykämie bzw. Dyslipidämie – definiert über Diagnose, entsprechende Medikation oder einen pathologischen Laborwert, der durch einen zweiten pathologischen Wert bestätigt wurde\n- **Methode:** Self-Controlled Case Series. Hier wird jede Person mit sich selbst verglichen: Die Ereignisrate in verschiedenen Expositionsfenstern (vor Beginn, erste Woche, Tag 8–30, 31–90, über 91 Tage, spätere Episoden, nach Absetzen) wird der Rate in unbehandelten Zeiträumen gegenübergestellt. Zeitstabile Störfaktoren wie Genetik, Diagnose oder sozialer Hintergrund werden dadurch automatisch kontrolliert.\n\n## Ergebnisse\nInsgesamt trat bei 497 Personen mindestens eine metabolische Auffälligkeit auf, bei 115 eine Hyperglykämie und bei 447 eine Dyslipidämie.\n\n### Zeitlicher Verlauf (Inzidenzratenverhältnis, IRR, gegenüber unbehandelten Zeiten)\n- 90 Tage vor Beginn: 5,43 (95 %-KI 3,76–7,85)\n- Tag 0–7: 55,55 (38,11–80,97)\n- Tag 8–30: 5,60 (2,93–10,70)\n- Tag 31–90: 7,71 (5,15–11,55)\n- ab Tag 91: 3,94 (2,91–5,33)\n- spätere Behandlungsepisoden: 3,71 (2,51–5,49)\n- 1–30 Tage nach Absetzen: 1,85 (0,89–3,83), nicht signifikant\n\nFür die Hyperglykämie allein lag das IRR in Tag 31–90 bei 5,93 (2,44–14,44) und unter Langzeitbehandlung bei 4,03 (2,13–7,62); für die Dyslipidämie bei 7,41 bzw. 3,96. Sensitivitäts- und Subgruppenanalysen nach Alter, Geschlecht, Testhäufigkeit, Kalenderzeitraum und COVID-19-Pandemie veränderten das Bild nach Angaben der Autoren nicht grundsätzlich.\n\n## Einordnung\nDie auffällig hohen Raten in der ersten Woche und bereits in den 90 Tagen vor Beginn sind kaum als pharmakologischer Effekt zu erklären. Wahrscheinlicher ist, dass um den Behandlungsstart herum vermehrt Blut abgenommen wird – und dabei bereits bestehende, bislang unbekannte Auffälligkeiten entdeckt werden. Aussagekräftiger ist daher der Verlauf ab der zweiten Behandlungswoche: Die Rate steigt bis zum dritten Monat an und bleibt danach auf etwa dem Vierfachen des Ausgangsniveaus. Das passt zu den bekannten Daten, wonach Gewicht, Triglyzeride und Cholesterin bei jungen Patientinnen und Patienten bereits in den ersten Wochen deutlich ansteigen können.\n\n## Limitationen\nDie Autorinnen und Autoren nennen selbst mehrere Einschränkungen:\n- Erfasst wurden nur erkannte Auffälligkeiten; leichte, nicht getestete oder unbehandelte Fälle fehlen.\n- Die Testhäufigkeit war um den Behandlungsbeginn höher, was die frühen Schätzer verzerrt.\n- Laborzeitpunkte entsprechen dem Befunddatum, nicht der Probenentnahme.\n- Unbehandelte Referenzzeiten lagen im Mittel in jüngerem Alter; Alter wurde zwar zeitabhängig adjustiert, Restconfounding bleibt möglich.\n- Die Fallzahl erlaubte keine Auswertung nach einzelnen Wirkstoffen – gerade hier bestehen erhebliche Unterschiede (Olanzapin und Quetiapin metabolisch ungünstiger als Aripiprazol).\n- Es handelt sich um einen Research Letter mit knapper Methodendarstellung aus einem ostasiatischen Versorgungssystem; die Übertragbarkeit auf Deutschland ist begrenzt.\n\nMethodisch ist das SCCS-Design eine Stärke, weil es den Vergleich zwischen sehr unterschiedlich kranken Behandelten und Unbehandelten vermeidet. Es setzt aber voraus, dass das Ereignis die spätere Exposition nicht beeinflusst; bei metabolischen Befunden, die zum Wechsel oder Absetzen führen können, ist das nur eingeschränkt erfüllt.",
+  "practice": "Die Daten unterstreichen, dass das metabolische Monitoring bei Kindern und Jugendlichen nicht nach der Ausgangsuntersuchung enden darf: Gewicht, BMI-Perzentile, Blutdruck sowie Nüchternglukose und Lipide sollten in den ersten drei Monaten engmaschig und danach regelmäßig kontrolliert werden. Die S3-Leitlinie Schizophrenie empfiehlt bei Minderjährigen ausdrücklich häufigere Kontrollen als bei Erwachsenen. In Deutschland sind nur wenige Antipsychotika für Minderjährige zugelassen (u. a. Risperidon für bestimmte Indikationen, Aripiprazol ab 13 bzw. 15 Jahren); Zulassungsalter, Höchstdauer und Kontrollvorgaben sind der jeweiligen Fachinformation zu entnehmen. Bei Off-Label-Anwendung sind Aufklärung und Dokumentation besonders sorgfältig zu führen.",
+  "sources": [
+    {
+      "citation": "Song S, Tian W, Hu Y, Wei C, Mu X, Chu RYK, et al.; Lai FTT. Metabolic Abnormalities Among Youths Receiving Antipsychotics Across Different Exposure Periods. JAMA Netw Open. 2026;9(10):e2639615. Online veröffentlicht am 28.10.2026.",
+      "doi": "10.1001/jamanetworkopen.2026.39615",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855923"
+    },
+    {
+      "citation": "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN). S3-Leitlinie Schizophrenie, Kurzfassung, Version 5.0 (Fassung vom 13.06.2026). AWMF-Register-Nr. 038-009.",
+      "url": "https://register.awmf.org/assets/guidelines/038-009k_S3_Schizophrenie_2026-07.pdf"
+    }
+  ]
+}

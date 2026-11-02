@@ -1,0 +1,63 @@
+{
+  "id": "handyverbot-schulen-island-2026",
+  "section": "news",
+  "issue": "2026-11-02",
+  "order": 4,
+  "areas": [
+    "KJP"
+  ],
+  "tags": [
+    "Smartphone",
+    "Schule",
+    "Handyverbot",
+    "Jugendliche",
+    "Depressivität",
+    "Prävention",
+    "Difference-in-Differences"
+  ],
+  "readMinutes": 7,
+  "title": "Handyverbote an Schulen: Isländische Landesdaten zeigen keinen Effekt auf die psychische Gesundheit Jugendlicher",
+  "subtitle": "Eine Difference-in-Differences-Analyse mit fast 24 000 Schülerinnen und Schülern aus 70 Schulen findet keine Veränderung von Depressivität, Angst oder Wohlbefinden nach Einführung schulweiter Smartphone-Verbote.",
+  "summary": "JAMA Network Open, 27.10.2026: 22 von 70 isländischen Schulen führten zwischen 2018 und 2023 ein Handyverbot ein. Im Vergleich zu Schulen ohne Verbot änderten sich Depressivität, Angst, Feindseligkeit und Wohlbefinden der 13- bis 15-Jährigen nicht signifikant – auch nicht nach Geschlecht. Auch Bildschirmzeit und Mobbing blieben unverändert.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Network Open 2026;9(10):e2640893"
+    },
+    {
+      "label": "Design",
+      "value": "wiederholte Querschnitte, Difference-in-Differences"
+    },
+    {
+      "label": "Datenquelle",
+      "value": "Youth in Iceland, Erhebungen 2016, 2018, 2023"
+    },
+    {
+      "label": "Teilnehmende",
+      "value": "23 938 Beobachtungen, 13–15 Jahre, 70 Schulen"
+    },
+    {
+      "label": "Exposition",
+      "value": "schulweites Smartphone-Verbot (22 Schulen)"
+    },
+    {
+      "label": "Evidenzniveau",
+      "value": "quasi-experimentelle Beobachtungsstudie"
+    }
+  ],
+  "keyPoints": [
+    "Nach Einführung eines Verbots zeigten sich **keine signifikanten Veränderungen** bei Depressivität, Angst, Feindseligkeit oder psychischem Wohlbefinden – weder insgesamt noch getrennt nach Geschlecht.",
+    "Der Schätzer für depressive Symptome lag bei β 0,65 (95 %-KI 0,01–1,30) und verfehlte die Bonferroni-korrigierte Signifikanzschwelle (p < 0,002) deutlich.",
+    "Auch **sekundäre Endpunkte** – Unterstützung durch Gleichaltrige, Social-Media- und Gaming-Zeit, Mobbing und Cybermobbing – veränderten sich nicht.",
+    "Schulen mit späterem Verbot unterschieden sich schon **vor der Einführung** in ihren Trends (v. a. bei Mädchen), was die Interpretation einschränkt."
+  ],
+  "body": "## Hintergrund\nDie Zunahme depressiver und ängstlicher Symptome bei Jugendlichen seit etwa 2012 wird häufig mit der Verbreitung von Smartphones und sozialen Medien in Verbindung gebracht. Als Reaktion haben zahlreiche Länder und Schulträger Smartphone-Verbote während der Schulzeit eingeführt oder diskutieren sie, auch in mehreren deutschen Bundesländern. Belastbare Daten zu den Auswirkungen solcher Verbote auf die psychische Gesundheit sind jedoch rar; bisherige Studien waren meist klein, querschnittlich oder auf schulische Leistungen ausgerichtet.\n\nIsland bietet hierfür besondere Voraussetzungen: Die landesweite Schulbefragung Youth in Iceland erfasst seit Jahrzehnten nahezu alle Schülerinnen und Schüler bestimmter Jahrgänge, und die Einführung von Handyverboten erfolgte schulweise zu unterschiedlichen Zeitpunkten.\n\n## Studiendesign\nDie Forschungsgruppe um Thorhildur Halldorsdottir (Reykjavik University), unter Beteiligung u. a. von Candice Odgers (UC Irvine), nutzte drei Befragungswellen der 8. bis 10. Klassen:\n- Februar 2016 (n = 7600), Februar 2018 (n = 7487), November 2023 (n = 8851)\n- insgesamt 23 938 Beobachtungen aus 70 Schulen; mittleres Alter 14,0 Jahre, je etwa zur Hälfte Jungen und Mädchen\n- **Exposition:** schulweites Verbot der Smartphone-Nutzung während der Unterrichtszeit, eingeführt zwischen 2018 und 2023 in 22 der 70 Schulen\n- **Primäre Endpunkte:** depressive Symptome, Angst, Feindseligkeit, psychisches Wohlbefinden (Selbstauskunft)\n- **Sekundäre Endpunkte:** wahrgenommene Unterstützung durch Gleichaltrige, Bildschirmnutzung (soziale Medien, Gaming allein bzw. mit Freunden, Videos), Mobbing und Cybermobbing\n- **Analyse:** Difference-in-Differences – verglichen wird die Veränderung in Schulen mit Verbot mit der Veränderung in Schulen ohne Verbot im selben Zeitraum; Bonferroni-Korrektur für multiples Testen\n\n## Ergebnisse\nDie Schätzer nach Einführung des Verbots (β mit 95 %-KI) lagen bei:\n- Depressivität: 0,65 (0,01 bis 1,30)\n- Angst: 0,21 (−0,08 bis 0,50)\n- Feindseligkeit: 0,23 (−0,12 bis 0,59)\n- Wohlbefinden: −0,52 (−1,08 bis 0,03)\n\nKeiner dieser Werte erreichte die korrigierte Signifikanzschwelle. Bemerkenswert ist, dass die Punktschätzer, wenn überhaupt, eher in Richtung leicht ungünstigerer Werte zeigen. Auch für Peer-Unterstützung, Bildschirmzeit und Mobbing fanden sich keine bedeutsamen Zusammenhänge. Sensitivitätsanalysen mit anderer zeitlicher Zuordnung und strengeren Kriterien für ein „echtes“ Verbot bestätigten die Hauptergebnisse.\n\n## Methodische Einordnung\nDie Studie ist eine der größten Untersuchungen zu Schul-Handyverboten mit landesweiten Daten und einem quasi-experimentellen Design. Mehrere Punkte begrenzen jedoch die Aussagekraft:\n- **Parallel-Trends-Annahme fraglich:** Schulen, die später ein Verbot einführten, entwickelten sich bereits zwischen 2016 und 2018 anders, besonders bei Mädchen (Depressivität β −2,50, Wohlbefinden β 1,50; jeweils p < 0,001). Die Autoren betonen selbst, dass dies das Vertrauen in die Post-Schätzer schwächt.\n- nur eine Erhebungswelle nach Einführung, bei frühen Einführern mit langem, bei späten mit sehr kurzem Abstand\n- Wechsel des Befragungsmodus (Papier 2016/2018, elektronisch 2023)\n- nicht zufällige Einführung der Verbote; Schulen entschieden selbst\n- ausschließlich Selbstauskünfte; Schlaf oder schulische Leistungen wurden in den berichteten Analysen nicht untersucht\n- die Verbote betrafen nur die Schulzeit – die Nutzung am Abend und in der Nacht, die für Schlaf und Stimmung besonders relevant sein dürfte, blieb unberührt\n\nDie Ergebnisse widerlegen damit nicht, dass Smartphone-Nutzung für einzelne Jugendliche belastend sein kann. Sie sprechen aber dagegen, von schulischen Verboten allein eine messbare Verbesserung der psychischen Gesundheit auf Bevölkerungsebene zu erwarten.",
+  "practice": "Für die kinder- und jugendpsychiatrische Beratung von Familien und Schulen bedeutet das: Schulische Handyverbote können aus pädagogischen Gründen sinnvoll sein, sind aber nach aktueller Datenlage keine ausreichende Maßnahme zur Prävention depressiver oder ängstlicher Symptome. Im Einzelfall bleibt die individuelle Betrachtung wichtig – problematische Nutzungsmuster, Schlafverschiebung durch abendliche Nutzung, Cybermobbing und belastende Inhalte sollten gezielt erfragt und mit Jugendlichen und Eltern besprochen werden.",
+  "sources": [
+    {
+      "citation": "Bonilla Aparicio E, Sigmarsdottir B, Haskell E, Sirotina U, Sveinbjornsdottir B, Asgeirsdottir BB, et al.; Halldorsdottir T. School Phone Bans and Adolescent Mental Health in Iceland. JAMA Netw Open. 2026;9(10):e2640893. Online veröffentlicht am 27.10.2026.",
+      "doi": "10.1001/jamanetworkopen.2026.40893",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858"
+    }
+  ]
+}

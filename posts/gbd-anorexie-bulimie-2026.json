@@ -1,0 +1,63 @@
+{
+  "id": "gbd-anorexie-bulimie-2026",
+  "section": "news",
+  "issue": "2026-11-02",
+  "order": 5,
+  "areas": [
+    "Psychiatrie",
+    "KJP"
+  ],
+  "tags": [
+    "Anorexia nervosa",
+    "Bulimia nervosa",
+    "Essstörungen",
+    "Epidemiologie",
+    "Global Burden of Disease",
+    "DALY"
+  ],
+  "readMinutes": 7,
+  "title": "Global Burden of Disease: Rund 18 Millionen Menschen leben mit Anorexie oder Bulimie – Tendenz steigend",
+  "subtitle": "Die GBD-2023-Analyse zeigt einen Anstieg der Fallzahlen um 71 % seit 1990, die höchste Prävalenz in Australasien und Westeuropa und eine Prognose von knapp 22 Millionen Betroffenen im Jahr 2050.",
+  "summary": "JAMA Psychiatry, 28.10.2026: 2023 lebten weltweit schätzungsweise 18,1 Mio. Menschen mit Anorexia oder Bulimia nervosa (3,9 bzw. 14,2 Mio.), 41 % davon im Alter von 10–24 Jahren. Die altersstandardisierte Prävalenz stieg seit 1990 um etwa 21 %. Westeuropa gehört zu den Regionen mit der höchsten Last; bis 2050 werden 21,8 Mio. Fälle erwartet.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Psychiatry, online 28.10.2026 (Open Access)"
+    },
+    {
+      "label": "Design",
+      "value": "GBD-2023-Analyse, 204 Länder, 1990–2023, Prognose bis 2050"
+    },
+    {
+      "label": "Fälle 2023",
+      "value": "18,1 Mio. (95 %-UI 13,9–24,0)"
+    },
+    {
+      "label": "DALYs 2023",
+      "value": "3,83 Mio. (95 %-UI 2,23–5,69)"
+    },
+    {
+      "label": "Altersgipfel",
+      "value": "AN 15–19 J.; BN 30–34 J."
+    },
+    {
+      "label": "Nicht erfasst",
+      "value": "Binge-Eating-Störung, OSFED"
+    }
+  ],
+  "keyPoints": [
+    "2023 lebten schätzungsweise **18,1 Millionen Menschen** mit Anorexia nervosa (3,9 Mio.) oder Bulimia nervosa (14,2 Mio.); altersstandardisierte Prävalenz 225,6 je 100 000.",
+    "**69 % der Betroffenen sind weiblich**, **41 % zwischen 10 und 24 Jahre** alt; die Anorexie erreicht ihren Gipfel mit 15–19 Jahren (133,8 je 100 000).",
+    "Seit 1990 stiegen die Fallzahlen um **71 %**, die altersstandardisierte Prävalenz und DALY-Rate um jeweils etwa **21 %**; die stärksten Zuwächse betrafen Ost-, Süd- und Südostasien.",
+    "**Westeuropa** zählt mit rund 1,9 Mio. Fällen zu den am stärksten betroffenen Regionen; für 2050 werden weltweit **21,8 Mio.** Fälle prognostiziert."
+  ],
+  "body": "## Hintergrund\nEssstörungen gehören zu den psychischen Erkrankungen mit der höchsten Mortalität und beginnen meist im Jugend- oder jungen Erwachsenenalter. Für Versorgungsplanung und Prävention sind verlässliche Daten zur Häufigkeit und zur Krankheitslast nötig. Die Global-Burden-of-Disease-(GBD-)Studie bietet hierfür standardisierte Schätzungen für alle Länder, beschränkt sich bei Essstörungen allerdings auf Anorexia nervosa (AN) und Bulimia nervosa (BN).\n\n## Methodik\nDie Analyse des GBD-Konsortiums (Erstautorin Ruoqing Bai, Senior-Autor u. a. Damian Santomauro) verwendet die Methoden der GBD-Runde 2023:\n- Datengrundlage: systematische Literaturrecherchen, bevölkerungsbezogene Surveys und Todesursachenregister\n- 204 Länder und Territorien, Zeitraum 1990–2023, Prognosen bis 2050\n- Endpunkte: Prävalenz, mit Behinderung gelebte Jahre (YLD), behinderungsbereinigte Lebensjahre (DALY), Todesfälle durch AN; jeweils mit 95-%-Unsicherheitsintervallen (UI) und nach Alter, Geschlecht und Region\n- Prognosemodelle wurden auf Daten von 1990–2019 angepasst, um Verzerrungen durch die COVID-19-Pandemie zu vermeiden\n\n## Ergebnisse\n### Weltweite Last 2023\n- 18,1 Mio. Betroffene (95 %-UI 13,9–24,0), altersstandardisiert 225,6 je 100 000\n- davon 3,92 Mio. mit AN und 14,2 Mio. mit BN\n- 12,6 Mio. Frauen (69,4 %) und 5,5 Mio. Männer (30,6 %) – der Männeranteil ist damit nicht vernachlässigbar\n- 3,83 Mio. DALYs (AN 0,85 Mio., BN 2,98 Mio.)\n- 237 Todesfälle mit AN als zugrunde liegender Todesursache (95 %-UI 116–373)\n\n### Altersverteilung\n- 41,2 % aller Fälle im Alter von 10–24 Jahren\n- AN mit Gipfel bei 15–19 Jahren (133,8 je 100 000), BN mit Gipfel bei 30–34 Jahren (388,8 je 100 000)\n- kombinierte Prävalenz am höchsten bei 20–24 Jahren (487,3 je 100 000)\n\n### Zeitliche Entwicklung 1990–2023\nDie absoluten Fallzahlen stiegen um 71 % (AN +57,9 %, BN +75,1 %). Bereinigt um Bevölkerungswachstum und Altersstruktur nahmen Prävalenz und DALY-Rate um jeweils etwa 21 % zu. In 156 von 204 Ländern stieg die Prävalenz.\n\n### Regionale Unterschiede\n- höchste altersstandardisierte Prävalenz in Australasien (946,4 je 100 000) und Westeuropa\n- Westeuropa: rund 1,9 Mio. Fälle, Prävalenzrate etwa 502 je 100 000, altersstandardisiert 16,7 % höher als 1990\n- stärkste relative Zunahme in Ostasien (+61,5 %), Südasien (+48,5 %) und Südostasien (+44,2 %)\n- niedrigste Werte im zentralen Afrika südlich der Sahara\n\n### Prognose bis 2050\nErwartet werden 21,8 Mio. Fälle (95 %-UI 16,0–28,6), davon 4,7 Mio. mit AN und 17,0 Mio. mit BN – ein Anstieg um rund 20 % gegenüber 2023.\n\n## Einordnung und Limitationen\nDie Zahlen bestätigen Essstörungen als relevante, wachsende Ursache nichttödlicher Krankheitslast. Wichtige Einschränkungen:\n- Die sehr niedrige Zahl an AN-Todesfällen ist ein Artefakt der GBD-Methodik, die nur die zugrunde liegende Todesursache zählt. Todesfälle durch Suizid oder somatische Komplikationen werden häufig anderen Ursachen zugeordnet; die tatsächliche Übersterblichkeit bei AN ist aus Kohortenstudien als deutlich erhöht bekannt.\n- Binge-Eating-Störung und andere näher bezeichnete Fütter- und Essstörungen (OSFED) fehlen, da keine Behinderungsgewichte vorliegen – die Gesamtlast wird damit unterschätzt.\n- In vielen Ländern niedrigen Einkommens fehlen Primärdaten; die Schätzungen beruhen dort weitgehend auf Modellannahmen.\n- Diagnostische Kriterien sind kulturell nicht überall gleich anwendbar.\n- Ob der Anstieg auf echte Zunahme, geänderte Diagnosekriterien (u. a. DSM-5 mit weniger strengen Kriterien) oder höhere Aufmerksamkeit zurückgeht, lässt sich nicht trennen.\n- Modellbasierte Schätzungen liegen über registerbasierten Diagnosezahlen, weil viele Betroffene – besonders mit BN – nie diagnostiziert werden.\n- Für Deutschland werden keine Einzelwerte berichtet.",
+  "practice": "Für die Versorgung in Deutschland unterstreichen die Daten die Bedeutung früher Erkennung im Jugendalter und an der Schnittstelle von Kinder- und Jugendpsychiatrie zur Erwachsenenpsychiatrie (Transitionsalter 16–25 Jahre). Die S3-Leitlinie Diagnostik und Behandlung der Essstörungen (AWMF 051-026) empfiehlt bei AN im Jugendalter familienbasierte Ansätze und bei BN kognitive Verhaltenstherapie als Therapie der ersten Wahl. Bulimische Symptome werden häufig verheimlicht und sollten in psychiatrischen und hausärztlichen Kontakten aktiv erfragt werden; auch Jungen und Männer sind betroffen.",
+  "sources": [
+    {
+      "citation": "Bai R, Dong W, Wang X, Zhang A, Santomauro DF; GBD Eating Disorders Collaborators. Global Burden of Anorexia Nervosa and Bulimia Nervosa, 1990 to 2023, With Forecasts to 2050: A Global Burden of Disease Study 2023 Analysis. JAMA Psychiatry. Online veröffentlicht am 28.10.2026.",
+      "doi": "10.1001/jamapsychiatry.2026.3457",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2855672"
+    }
+  ]
+}

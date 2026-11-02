@@ -1,0 +1,64 @@
+{
+  "id": "more-opioidgebrauchsstoerung-fmri-2026",
+  "section": "news",
+  "issue": "2026-11-02",
+  "order": 3,
+  "areas": [
+    "Psychotherapie",
+    "Psychiatrie"
+  ],
+  "tags": [
+    "Opioidgebrauchsstörung",
+    "Achtsamkeit",
+    "MORE",
+    "Craving",
+    "fMRT",
+    "präfrontaler Kortex",
+    "RCT"
+  ],
+  "readMinutes": 7,
+  "title": "Achtsamkeitsbasierte Gruppentherapie bei Opioidabhängigkeit verändert präfrontale Belohnungsverarbeitung",
+  "subtitle": "Eine randomisierte fMRT-Studie zu Mindfulness-Oriented Recovery Enhancement (MORE) findet neuronale Veränderungen, die mit geringerem Craving einhergehen, und eine längere Abstinenz nach vier Monaten.",
+  "summary": "JAMA Psychiatry, 28.10.2026: Bei stationär behandelten Menschen mit Opioidgebrauchsstörung verschob MORE im Vergleich zu supportiver Psychoedukation die präfrontale Aktivität weg von Drogenreizen hin zu natürlichen Belohnungen; diese Verschiebung ging mit weniger Craving einher. Die Abstinenzdauer nach etwa vier Monaten war länger (kleiner Effekt, w = 0,19). Kleine Stichproben, mechanistische Studie.",
+  "facts": [
+    {
+      "label": "Journal",
+      "value": "JAMA Psychiatry, online 28.10.2026"
+    },
+    {
+      "label": "Design",
+      "value": "RCT mit aktiver Kontrolle, fMRT-Endpunkte, 1 Zentrum"
+    },
+    {
+      "label": "Teilnehmende",
+      "value": "n = 59 (Cue-Reaktivität), n = 38 (Follow-up)"
+    },
+    {
+      "label": "Intervention",
+      "value": "MORE, 8 × 2 h Gruppe, wöchentlich"
+    },
+    {
+      "label": "Kontrolle",
+      "value": "Psychoedukative supportive Therapie (PST)"
+    },
+    {
+      "label": "Primärer Endpunkt",
+      "value": "BOLD-Signal (fMRT); sekundär Craving, Abstinenzdauer"
+    }
+  ],
+  "keyPoints": [
+    "MORE kombiniert **Achtsamkeitstraining, Neubewertung von Drogenreizen und gezieltes Auskosten positiver Erfahrungen** (Savoring) in acht wöchentlichen Gruppensitzungen.",
+    "Unter MORE nahm die **drogenbezogene Verzerrung** präfrontaler Aktivität (u. a. Gyrus frontalis medius, Präcuneus) bei der Regulation von Drogen- vs. natürlichen Belohnungsreizen ab.",
+    "Im lateralen und ventromedialen präfrontalen Kortex war diese Verschiebung nur in der MORE-Gruppe mit **geringerem reizinduziertem Craving** verbunden.",
+    "Etwa vier Monate nach Behandlungsende war die **Abstinenzdauer** unter MORE länger (χ² = 6,7; p = 0,04; Cohen w = 0,19) – bei nur 38 nachbeobachteten Personen."
+  ],
+  "body": "## Hintergrund\nTrotz wirksamer Substitutions- und Antagonistenbehandlung bleiben Rückfälle und Überdosierungstodesfälle bei der Opioidgebrauchsstörung (OUD) häufig. Ein zentrales Element der Suchterkrankung ist eine verschobene Belohnungsverarbeitung: Drogenbezogene Reize gewinnen an motivationaler Bedeutung, während natürliche Belohnungen (soziale Kontakte, Genuss, Erfolgserlebnisse) an Wert verlieren. Mindfulness-Oriented Recovery Enhancement (MORE), entwickelt von Eric Garland, zielt genau auf diese Verschiebung. Das Programm verbindet drei Elemente: Achtsamkeitstraining zur Wahrnehmung automatischer Craving-Reaktionen, kognitive Neubewertung von Drogenreizen und Stressoren sowie Savoring, also das bewusste Wahrnehmen und Auskosten positiver Alltagserfahrungen. In früheren randomisierten Studien bei Menschen mit chronischen Schmerzen und Opioidfehlgebrauch reduzierte MORE den Fehlgebrauch; die neuronalen Mechanismen sind jedoch wenig untersucht.\n\n## Studiendesign\nDie Studie der Arbeitsgruppe um Rita Goldstein (Icahn School of Medicine at Mount Sinai, New York) in Zusammenarbeit mit Garland wurde zwischen November 2020 und September 2024 durchgeführt (NCT04112186).\n- **Population:** Erwachsene mit OUD aus einer stationären Rehabilitationseinrichtung in New York\n- **Intervention:** MORE, acht wöchentliche zweistündige Gruppensitzungen\n- **Kontrolle:** psychoedukative supportive Therapie (PST) im gleichen Format\n- **Primärer Endpunkt:** Veränderung des BOLD-Signals in der fMRT während zweier Paradigmen: (1) aktive Herauf- bzw. Herunterregulation der Reaktion auf Drogen- und natürliche Belohnungsreize, (2) Betrachten eines naturalistischen Films mit drogenbezogenen Szenen\n- **Sekundäre Endpunkte:** reizinduziertes Craving und Abstinenzdauer\n\nAusgewertet wurden 59 Personen für die Cue-Reaktivität (MORE n = 24, PST n = 35; etwa 21–23 % Frauen, mittleres Alter rund 43 Jahre), 37 für das Filmparadigma und 38 für die Nachbeobachtung (MORE n = 13, PST n = 25).\n\n## Ergebnisse\n- Im Vergleich zur PST verringerte MORE die drogenbezogene Aktivitätsverzerrung, wenn Teilnehmende ihre Reaktion auf Drogenreize herunter- und auf natürliche Belohnungen heraufregulieren sollten. Betroffen waren u. a. der Gyrus frontalis medius und der Präcuneus; der Effekt blieb nach Kontrolle der passiven Reizbetrachtung bestehen.\n- Im lateralen und ventromedialen präfrontalen Kortex ging die Verschiebung von Drogen- zu natürlichen Belohnungsreaktionen mit geringerem reizinduziertem Craving einher – dieser Zusammenhang fand sich ausschließlich in der MORE-Gruppe.\n- Während des Films reduzierte MORE die Synchronisation medial-präfrontaler Aktivität über die Teilnehmenden hinweg (q = 0,019) – ein Hinweis, dass drogenbezogene Szenen weniger einheitlich „vereinnahmend“ verarbeitet wurden.\n- Klinisch war die Abstinenzdauer etwa vier Monate nach Behandlungsende unter MORE länger (χ² = 6,7; p = 0,04); die Effektstärke war mit Cohen w = 0,19 klein.\n\nDie Autorinnen und Autoren deuten die Befunde dahingehend, dass MORE die Funktion präfrontaler Knoten von Belohnungs-, Salienz- und Kontrollnetzwerken verändern könnte, und sehen das Verfahren als biologisch begründete Ergänzung zur Pharmakotherapie der OUD.\n\n## Einordnung und Limitationen\nDie Studie ist in erster Linie mechanistisch. Sie liefert plausible neuronale Korrelate für das therapeutische Rational von MORE: Weg von der Dominanz drogenbezogener Reize, hin zu einer Wiederbelebung natürlicher Belohnung. Zugleich sind die Einschränkungen erheblich:\n- kleine und über die Analysen schrumpfende Stichproben (59, 37 bzw. 38 Personen), ungleich verteilt zwischen den Gruppen\n- deutlicher Schwund bis zur Nachbeobachtung, besonders in der MORE-Gruppe (13 Personen), mit Risiko eines Attritionsbias\n- nur ein Zentrum, stationäres Setting, überwiegend Männer\n- das klinische Ergebnis (Abstinenzdauer) ist ein sekundärer Endpunkt mit kleinem Effekt und knapper Signifikanz\n- im Abstract werden für die Bildgebungsbefunde keine Konfidenzintervalle berichtet; fMRT-Befunde in kleinen Stichproben sind anfällig für fehlende Replizierbarkeit\n- es bleibt offen, ob die Effekte über eine allgemeine Wirkung achtsamkeitsbasierter Verfahren hinausgehen\n\nFür die Versorgung ist wichtig: Die Studie prüft MORE nicht als Ersatz, sondern als Ergänzung zur medikamentösen Behandlung, die bei OUD Standard bleibt.",
+  "practice": "Die Opioid-Agonisten-Therapie (Methadon, Levomethadon, Buprenorphin) bleibt Grundlage der Behandlung der Opioidabhängigkeit; psychosoziale und psychotherapeutische Angebote ergänzen sie. Achtsamkeitsbasierte Verfahren mit Fokus auf Craving und Wiederentdeckung natürlicher Belohnungen sind ein plausibler, aber für die OUD noch begrenzt belegter Baustein. Strukturierte MORE-Programme sind in Deutschland bislang kaum etabliert; Elemente wie Craving-Achtsamkeit, Reizneubewertung und Aktivierung positiver Erfahrungen lassen sich jedoch in bestehende verhaltenstherapeutische Gruppenangebote integrieren.",
+  "sources": [
+    {
+      "citation": "Huang Y, Ceceli AO, Kronberg G, Drury KR, King SG, McClain NE, et al.; Garland EL, Goldstein RZ. Prefrontal Cortical Changes With Mindfulness-Oriented Recovery Enhancement in Opioid Use Disorder: A Randomized Clinical Trial. JAMA Psychiatry. Online veröffentlicht am 28.10.2026.",
+      "doi": "10.1001/jamapsychiatry.2026.3388",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2855673"
+    }
+  ]
+}

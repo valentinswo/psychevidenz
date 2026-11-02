@@ -1,0 +1,78 @@
+{
+  "id": "wissen-metabolisches-monitoring-antipsychotika",
+  "section": "wissen",
+  "issue": "2026-11-02",
+  "order": 10,
+  "areas": [
+    "Pharmakotherapie",
+    "Psychiatrie",
+    "KJP"
+  ],
+  "tags": [
+    "Antipsychotika",
+    "metabolisches Syndrom",
+    "Gewichtszunahme",
+    "Monitoring",
+    "Metformin",
+    "Kinder und Jugendliche"
+  ],
+  "readMinutes": 10,
+  "title": "Metabolisches Monitoring unter Antipsychotika: Was, wann und wie reagieren?",
+  "subtitle": "Ein praxisorientierter Überblick zu metabolischen Risiken der einzelnen Wirkstoffe, sinnvollen Kontrollintervallen bei Erwachsenen sowie Kindern und Jugendlichen und zum Vorgehen bei Gewichtszunahme.",
+  "summary": "Menschen mit Schizophrenie haben eine deutlich verkürzte Lebenserwartung, überwiegend durch kardiovaskuläre Erkrankungen. Antipsychotika – vor allem Clozapin und Olanzapin – verstärken das metabolische Risiko, besonders früh nach Beginn und besonders bei jungen Menschen. Überblick zu Basisdiagnostik, Kontrollintervallen und Interventionen nach S3-Leitlinie und internationalem Konsens.",
+  "facts": [
+    {
+      "label": "Höchstes Risiko",
+      "value": "Clozapin, Olanzapin"
+    },
+    {
+      "label": "Mittleres Risiko",
+      "value": "Quetiapin, Risperidon, Paliperidon"
+    },
+    {
+      "label": "Geringeres Risiko",
+      "value": "Aripiprazol, Lurasidon, Ziprasidon, Cariprazin"
+    },
+    {
+      "label": "Kritische Phase",
+      "value": "erste 3 Monate nach Beginn"
+    },
+    {
+      "label": "Interventionsschwelle",
+      "value": "Gewichtszunahme > 3 % (S3) bzw. ≥ 5 %"
+    },
+    {
+      "label": "Leitlinienbezug",
+      "value": "S3-LL Schizophrenie 2026; ADA/APA-Konsensus 2004"
+    }
+  ],
+  "keyPoints": [
+    "Das metabolische Risiko unterscheidet sich stark zwischen den Wirkstoffen: **Clozapin und Olanzapin** am ungünstigsten, **Aripiprazol** und andere Partialagonisten sowie Lurasidon und Ziprasidon günstiger.",
+    "Gewicht und Stoffwechsel verändern sich **früh**: Die ersten drei Behandlungsmonate erfordern die engmaschigsten Kontrollen.",
+    "**Kinder und Jugendliche** reagieren besonders empfindlich; die S3-Leitlinie fordert für sie häufigere Kontrollen als bei Erwachsenen.",
+    "Bei Gewichtszunahme über 3 % empfiehlt die S3-Leitlinie Lebensstilmaßnahmen und bei unzureichendem Erfolg einen Behandlungsversuch mit **Metformin** (Off-Label)."
+  ],
+  "body": "## Warum metabolisches Monitoring?\nMenschen mit schweren psychischen Erkrankungen, insbesondere Schizophrenie, haben eine um viele Jahre verkürzte Lebenserwartung gegenüber der Allgemeinbevölkerung. Der größte Teil dieser Übersterblichkeit geht auf kardiovaskuläre und metabolische Erkrankungen zurück. Die S3-Leitlinie Schizophrenie (Version 5.0, 2026) stellt fest, dass bei Schizophrenie ein erhöhtes Risiko für metabolische und kardiovaskuläre Erkrankungen besteht, und empfiehlt unabhängig von der Krankheitsphase eine regelmäßige Überwachung der somatischen Gesundheit.\n\nZum erhöhten Grundrisiko (Bewegungsmangel, ungünstige Ernährung, Rauchen, Negativsymptomatik, soziale Faktoren, möglicherweise krankheitsimmanente Glukosestoffwechselstörungen) kommen die Wirkungen der Antipsychotika: Gewichtszunahme, Insulinresistenz, Dyslipidämie (vor allem Triglyzeride) und in Einzelfällen ein rasch einsetzender Diabetes bis hin zur Ketoazidose.\n\n## Unterschiede zwischen den Wirkstoffen\nDie metabolische Belastung ist substanzspezifisch. Grob lässt sich unterscheiden:\n- **hohes Risiko:** Clozapin, Olanzapin\n- **mittleres Risiko:** Quetiapin, Risperidon, Paliperidon, Iloperidon\n- **geringeres Risiko:** Aripiprazol, Brexpiprazol, Cariprazin, Lurasidon, Ziprasidon, Amisulprid sowie hochpotente Antipsychotika der ersten Generation (die dafür mehr extrapyramidale Nebenwirkungen und teils Hyperprolaktinämie verursachen)\n\nDie Einteilung gilt für Gruppen, nicht für Einzelpersonen: Auch unter „günstigen“ Substanzen kann es individuell zu deutlicher Gewichtszunahme kommen.\n\n## Besondere Empfindlichkeit junger Menschen\nKinder und Jugendliche sowie Menschen mit erster psychotischer Episode reagieren besonders stark. In einer prospektiven Studie bei 338 antipsychotikanaiven Kindern und Jugendlichen (4–19 Jahre) nahmen die Teilnehmenden innerhalb von zwölf Wochen im Mittel rund 6 kg zu, unter Olanzapin knapp 9 kg; unter Olanzapin und Quetiapin stiegen Gesamtcholesterin und Triglyzeride signifikant, unter Risperidon die Triglyzeride, während unter Aripiprazol keine signifikanten metabolischen Veränderungen auftraten (Correll et al. 2009). Neue Routinedaten aus Hongkong (2026) zeigen, dass neu erkannte Dyslipidämien und Hyperglykämien bei jungen Menschen vor allem in den ersten drei Monaten nach Beginn gehäuft auftreten und danach erhöht bleiben.\n\nDie S3-Leitlinie empfiehlt daher bei Kindern und Jugendlichen, metabolische Nebenwirkungen häufiger zu überwachen als bei Erwachsenen und Gewicht, Größe und Prolaktin zu beobachten. Für die Gewichtsbeurteilung sind alters- und geschlechtsbezogene BMI-Perzentilen maßgeblich.\n\n## Basisdiagnostik vor Behandlungsbeginn\nNach S3-Leitlinie gehören zur Erstdiagnostik u. a.:\n- Gewicht, Größe (BMI), Blutdruck und Puls; sinnvoll ergänzt durch den Taillenumfang\n- Nüchternblutzucker, ggf. HbA1c\n- Blutbild mit Differenzialblutbild, Leber- und Nierenwerte, Elektrolyte, TSH\n- EKG vor Beginn der Pharmakotherapie\n- Eigen- und Familienanamnese für Diabetes, Adipositas, Dyslipidämie, Hypertonie und frühe kardiovaskuläre Ereignisse; Rauchstatus\n\nEin Nüchtern-Lipidprofil ist in der Basisliste der Kurzfassung nicht ausdrücklich genannt, wird aber in internationalen Empfehlungen (ADA/APA-Konsensus) zum Ausgangsbefund gezählt und ist für die Verlaufsbeurteilung sinnvoll.\n\n## Kontrollintervalle\nDie konkreten Intervalle der S3-Leitlinie finden sich in deren Tabelle zu Labor- und Kontrolluntersuchungen. International orientieren sich viele Empfehlungen am Konsensus der American Diabetes Association und der American Psychiatric Association (2004), der für Antipsychotika der zweiten Generation folgendes Schema vorschlägt:\n- **Gewicht/BMI:** zu Beginn, nach 4, 8 und 12 Wochen, danach vierteljährlich\n- **Taillenumfang:** zu Beginn und jährlich\n- **Blutdruck und Nüchternglukose:** zu Beginn, nach 12 Wochen, danach jährlich\n- **Nüchternlipide:** zu Beginn, nach 12 Wochen, danach mindestens alle 5 Jahre bei unauffälligem Befund\n- **Eigen- und Familienanamnese:** zu Beginn und jährlich\n\nIn der Praxis empfiehlt sich, Lipide bei Hochrisikosubstanzen und bei jungen Menschen häufiger als alle fünf Jahre zu kontrollieren, und bei Auffälligkeiten die Intervalle zu verkürzen. Bei Clozapin kommen die vorgeschriebenen Blutbildkontrollen gemäß Fachinformation hinzu.\n\n## Vorgehen bei Gewichtszunahme und metabolischen Auffälligkeiten\nDie S3-Leitlinie empfiehlt ein gestuftes Vorgehen:\n- **Prävention von Beginn an:** Bereits bei Therapiebeginn sollen Ernährungsberatung, Psychoedukation und Bewegungsprogramme angeboten werden – nicht erst bei manifester Zunahme.\n- **Ab einer Gewichtszunahme von mehr als 3 %:** psychotherapeutische und psychosoziale Maßnahmen zur Lebensstiländerung anbieten.\n- **Bei unzureichendem Erfolg**, wenn die Medikation fortgeführt werden muss: Behandlungsversuch mit **Metformin** (starke Empfehlung; Off-Label-Use, daher Aufklärung und Dokumentation erforderlich; Kontraindikationen wie eingeschränkte Nierenfunktion beachten).\n- **Dosisreduktion oder Präparatwechsel** auf eine metabolisch günstigere Substanz erwägen, abhängig vom Schweregrad und unter Abwägung des Rückfallrisikos; bei Clozapin-Indikation (Therapieresistenz) ist ein Wechsel oft nicht sinnvoll.\n- Begleiterkrankungen wie Hypertonie, Dyslipidämie, Diabetes und Adipositas sollen nach den jeweiligen Fachleitlinien behandelt werden; die Raucherentwöhnung ist ein wesentlicher kardiovaskulärer Hebel.\n\nDer ADA/APA-Konsensus empfiehlt, bei einer Gewichtszunahme von 5 % oder mehr des Ausgangsgewichts einen Wechsel des Antipsychotikums zu erwägen. Neuere Optionen wie GLP-1-Rezeptoragonisten werden für antipsychotikaassoziierte Gewichtszunahme untersucht, sind dafür aber nicht zugelassen und nicht Gegenstand einer Leitlinienempfehlung.\n\n## Häufige Versorgungslücken\nZahlreiche Studien zeigen, dass metabolische Kontrollen in der Routine – stationär wie ambulant – oft unvollständig erfolgen, insbesondere Lipidbestimmungen und Verlaufskontrollen nach der Ausgangsuntersuchung. Hilfreich sind feste Checklisten oder Monitoringbögen, klare Zuständigkeiten zwischen Psychiatrie und Hausarztpraxis sowie die Information der Betroffenen und Angehörigen über notwendige Kontrollen, wie sie auch die S3-Leitlinie fordert.",
+  "practice": "Vor jedem Antipsychotikum Ausgangswerte erheben (Gewicht, BMI bzw. BMI-Perzentile, Taillenumfang, Blutdruck, Nüchternglukose/HbA1c, Lipide, EKG) und in den ersten drei Monaten engmaschig kontrollieren – bei Kindern und Jugendlichen häufiger als bei Erwachsenen. Lebensstilmaßnahmen von Beginn an anbieten, bei Gewichtszunahme über 3 % intensivieren und bei Bedarf Metformin (off label) oder einen Präparatwechsel erwägen. Wirkstoffspezifische Kontrollvorgaben, Zulassungsalter und Kontraindikationen sind der jeweiligen Fachinformation zu entnehmen.",
+  "sources": [
+    {
+      "citation": "Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN). S3-Leitlinie Schizophrenie, Kurzfassung, Version 5.0 (Fassung vom 13.06.2026). AWMF-Register-Nr. 038-009.",
+      "url": "https://register.awmf.org/assets/guidelines/038-009k_S3_Schizophrenie_2026-07.pdf"
+    },
+    {
+      "citation": "American Diabetes Association, American Psychiatric Association, American Association of Clinical Endocrinologists, North American Association for the Study of Obesity. Consensus development conference on antipsychotic drugs and obesity and diabetes. Diabetes Care. 2004;27(2):596–601.",
+      "doi": "10.2337/diacare.27.2.596",
+      "url": "https://doi.org/10.2337/diacare.27.2.596"
+    },
+    {
+      "citation": "Correll CU, Manu P, Olshanskiy V, Napolitano B, Kane JM, Malhotra AK. Cardiometabolic risk of second-generation antipsychotic medications during first-time use in children and adolescents. JAMA. 2009;302(16):1765–1773.",
+      "doi": "10.1001/jama.2009.1549",
+      "url": "https://doi.org/10.1001/jama.2009.1549"
+    },
+    {
+      "citation": "Song S, Tian W, Hu Y, et al.; Lai FTT. Metabolic Abnormalities Among Youths Receiving Antipsychotics Across Different Exposure Periods. JAMA Netw Open. 2026;9(10):e2639615.",
+      "doi": "10.1001/jamanetworkopen.2026.39615",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855923"
+    }
+  ]
+}

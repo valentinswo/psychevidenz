@@ -1,0 +1,75 @@
+{
+  "id": "olanzapin-sc-depot-weltruza-2026",
+  "section": "news",
+  "issue": "2026-11-02",
+  "order": 2,
+  "areas": [
+    "Pharmakotherapie",
+    "Psychiatrie"
+  ],
+  "tags": [
+    "Olanzapin",
+    "Depot-Antipsychotikum",
+    "LAI",
+    "Schizophrenie",
+    "FDA-Zulassung",
+    "Post-Injection-Syndrom",
+    "SOLARIS"
+  ],
+  "readMinutes": 7,
+  "title": "FDA lässt monatliches subkutanes Olanzapin-Depot zu – ohne Überwachungspflicht nach der Injektion",
+  "subtitle": "Weltruza (TEV-'749) ist das erste subkutan zu applizierende Olanzapin-Depot. In der Zulassungsstudie SOLARIS trat kein Post-Injection-Delirium/Sedierungssyndrom auf; in der EU läuft das Zulassungsverfahren.",
+  "summary": "Die FDA hat am 9.10.2026 Olanzapin als monatliche subkutane Depotinjektion (Weltruza) für Erwachsene mit Schizophrenie zugelassen. In SOLARIS (n = 675) besserte sich der PANSS-Gesamtwert nach 8 Wochen um rund 10–11 Punkte stärker als unter Placebo. Bei fast 4000 Injektionen wurde kein PDSS beobachtet. In Deutschland nicht zugelassen; EMA-Antrag seit Mai 2026 in Prüfung.",
+  "facts": [
+    {
+      "label": "Zulassung",
+      "value": "FDA, 09.10.2026 (USA); EU: Antrag in Prüfung"
+    },
+    {
+      "label": "Wirkstoff",
+      "value": "Olanzapin, Retard-Suspension s. c. (vormals TEV-'749)"
+    },
+    {
+      "label": "Dosierung",
+      "value": "318 / 425 / 531 mg monatlich ≙ 10 / 15 / 20 mg oral"
+    },
+    {
+      "label": "Zulassungsstudie",
+      "value": "SOLARIS, Phase 3, doppelblind, placebokontrolliert"
+    },
+    {
+      "label": "Teilnehmende",
+      "value": "n = 675 (18–64 Jahre)"
+    },
+    {
+      "label": "Datenlage",
+      "value": "Herstellerangaben, Kongressdaten; Volltextpublikation ausstehend"
+    }
+  ],
+  "keyPoints": [
+    "Erstes **subkutanes** Olanzapin-Depot: einmal monatlich, **ohne Aufsättigungsdosis** und ohne orale Überlappung.",
+    "In SOLARIS sank der PANSS-Gesamtwert nach 8 Wochen placebobereinigt um **9,7 bis 11,3 Punkte** (alle Dosen p < 0,001, laut Hersteller); CGI-S und PSP besserten sich ebenfalls signifikant.",
+    "Über **3971 Injektionen** wurde **kein Fall eines PDSS** beobachtet – anders als beim intramuskulären Olanzapinpamoat, das in der EU eine mindestens dreistündige Nachbeobachtung erfordert.",
+    "Metabolisches Profil wie bei oralem Olanzapin: Gewichtszunahme als UAW bei 35 % vs. 8 % unter Placebo in der Akutphase."
+  ],
+  "body": "## Hintergrund\nDepot-Antipsychotika (LAI) senken in Registerstudien das Rückfall- und Rehospitalisierungsrisiko bei Schizophrenie und werden von der S3-Leitlinie bei entsprechender Präferenz oder unsicherer Einnahme ausdrücklich angeboten. Für Olanzapin, eines der wirksamsten Antipsychotika, gab es bislang nur das intramuskuläre Olanzapinpamoat (in der EU als ZypAdhera). Dessen Einsatz wird durch das seltene, aber potenziell gefährliche **Post-Injection-Delirium/Sedierungssyndrom (PDSS)** begrenzt: Nach versehentlich rascher Freisetzung können Sedierung bis zum Koma, Verwirrtheit, Ataxie und anticholinerge Symptome auftreten. Die Fachinformation schreibt deshalb eine Beobachtung von mindestens drei Stunden in einer geeigneten Einrichtung nach jeder Injektion vor – im Alltag ein erhebliches Hindernis.\n\n## Das neue Präparat\nWeltruza (Teva, Entwicklungsname TEV-'749, auch mdc-TJK) nutzt eine Copolymer-Depottechnologie des Partners Medincell, die Olanzapin nach subkutaner Gabe gleichmäßig über einen Monat freisetzen soll. Die FDA hat das Präparat am 9. Oktober 2026 für Erwachsene mit Schizophrenie zugelassen. Angaben laut Hersteller und Fachpresse:\n- Dosisstärken 318 mg, 425 mg und 531 mg einmal monatlich, entsprechend 10, 15 bzw. 20 mg oralem Olanzapin täglich\n- keine Aufsättigungsdosis, keine orale Supplementierung zu Beginn\n- keine verpflichtende Nachbeobachtung nach der Injektion; ein Warnhinweis zu PDSS bleibt dennoch in der Kennzeichnung, da das Risiko bei subkutaner Gabe nicht abschließend bekannt ist\n- unverändert der Boxed Warning zur erhöhten Mortalität älterer Menschen mit demenzassoziierter Psychose\n\n## Studiendesign SOLARIS\n- multinationale, randomisierte, doppelblinde, placebokontrollierte Phase-3-Studie\n- 675 Erwachsene (18–64 Jahre) mit akut exazerbierter Schizophrenie\n- **Periode 1 (8 Wochen):** Randomisierung 1:1:1:1 auf niedrige, mittlere oder hohe Dosis oder Placebo\n- **Periode 2 (bis 48 Wochen):** Placebo-Completer wurden auf eine der drei Dosen umrandomisiert; Langzeitsicherheit und PDSS-Inzidenz als Ziel\n- primärer Endpunkt: Veränderung des PANSS-Gesamtwerts in Woche 8; wichtige sekundäre Endpunkte: CGI-S und Personal and Social Performance Scale (PSP)\n\n## Ergebnisse\nNach den im Mai 2024 veröffentlichten Topline-Daten des Herstellers lag die placebobereinigte PANSS-Reduktion in Woche 8 bei 9,71 Punkten (niedrige Dosis), 11,27 Punkten (mittlere Dosis) und 9,71 Punkten (hohe Dosis), jeweils mit multiplizitätsadjustiertem p < 0,001. CGI-S und PSP waren ebenfalls signifikant überlegen; Zahlenwerte dazu wurden nicht mitgeteilt. Post-hoc-Analysen der offenen Phase zeigen laut Fachpresse eine Stabilisierung bei mehr als der Hälfte der Teilnehmenden und Remission bei über 20 % der mindestens sechs Monate Behandelten.\n\n### Sicherheit\n- In Periode 1 (917 aktive Injektionen) waren Gewichtszunahme (35 % vs. 8 % unter Placebo), Reaktionen an der Injektionsstelle (Verhärtung 13 % vs. 2 %, Schmerz 10 % vs. 4 %, Erythem 10 % vs. 1 %) sowie Somnolenz, Kopfschmerz und Obstipation häufig.\n- Schwerwiegende unerwünschte Ereignisse 1 % vs. 2 %; Studienabbrüche wegen UAW ähnlich häufig wie unter Placebo.\n- Über alle Studienphasen und **3971 Injektionen** wurde kein PDSS-Fall beobachtet oder bestätigt.\n\n## Methodische Einordnung\nDie Effektgröße in der Akutphase liegt im erwarteten Bereich für Olanzapin gegenüber Placebo. Zu beachten ist:\n- Die Zahlen stammen bislang aus Pressemitteilungen, Kongressbeiträgen und Fachpresseberichten (Sekundärquellen); eine begutachtete Vollpublikation mit Konfidenzintervallen lag bei Redaktionsschluss nicht vor.\n- Eine placebokontrollierte Akutstudie beantwortet nicht die klinisch wichtigere Frage der Rückfallprophylaxe gegenüber oraler Gabe oder anderen LAI.\n- Ein PDSS ist auch beim intramuskulären Pamoat ein seltenes Ereignis. Fast 4000 ereignisfreie Injektionen sind beruhigend, schließen ein sehr seltenes Risiko aber nicht aus; entsprechend bleibt der Warnhinweis bestehen.\n- Das metabolische Risiko von Olanzapin wird durch die Darreichungsform nicht verringert.",
+  "practice": "In Deutschland ist Weltruza derzeit nicht verfügbar; die EMA prüft seit Mai 2026 einen Zulassungsantrag. Als Olanzapin-Depot steht hierzulande weiterhin nur Olanzapinpamoat i. m. zur Verfügung, mit der in der Fachinformation geforderten Nachbeobachtung von mindestens drei Stunden nach jeder Injektion. Sollte das subkutane Präparat in der EU zugelassen werden, könnte es den Einsatz von Olanzapin als Depot im ambulanten Bereich deutlich erleichtern. Das metabolische Monitoring (Gewicht, Taillenumfang, Glukose/HbA1c, Lipide) bleibt unabhängig von der Darreichungsform erforderlich.",
+  "sources": [
+    {
+      "citation": "Psychiatric Times. Olanzapine LAI (Weltruza) Receives FDA Approval for Schizophrenia. 09.10.2026 (Sekundärquelle, basierend auf Herstellerangaben).",
+      "url": "https://psychiatrictimes.com/view/olanzapine-lai-weltruza-receives-fda-approval-for-schizophrenia"
+    },
+    {
+      "citation": "Teva Pharmaceuticals, Medincell. Positive Phase 3 Efficacy Results from SOLARIS Trial Evaluating TEV-'749 (olanzapine) as a Once-Monthly Subcutaneous Long-Acting Injectable in Adults with Schizophrenia. Pressemitteilung, 08.05.2024.",
+      "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2024/Teva-and-Medincell-Announce-Positive-Phase-3-Efficacy-Results-from-SOLARIS-Trial-Evaluating-TEV-749-olanzapine-as-a-Once-Monthly-Subcutaneous-Long-Acting-Injectable-in-Adults-with-Schizophrenia/default.aspx"
+    },
+    {
+      "citation": "Psychiatric Times. TEV-'749 Demonstrates No Incidence of Postinjection Delirium/Sedation Syndrome in New Data. 24.09.2024 (Kongressdaten ECNP 2024).",
+      "url": "https://www.psychiatrictimes.com/view/tev-749-demonstrates-no-incidence-of-postinjection-delirium-sedation-syndrome-in-new-data"
+    },
+    {
+      "citation": "European Medicines Agency. ZypAdhera (Olanzapin): EPAR – Produktinformation (Zusammenfassung der Merkmale des Arzneimittels).",
+      "url": "https://www.ema.europa.eu/en/documents/product-information/zypadhera-epar-product-information_en.pdf"
+    }
+  ]
+}
